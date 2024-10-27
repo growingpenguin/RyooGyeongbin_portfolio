@@ -105,31 +105,7 @@ Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 �
 
 <br />
 
-## 3. 🍻 MyLittleBeer
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
->
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
-
-<br />
-
-## 4. 👊 MyLittelHero
-
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
->
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
-> - Language : python3   
-> - Skill : flask, mongoDB
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
-
-<br />
 
 
 
