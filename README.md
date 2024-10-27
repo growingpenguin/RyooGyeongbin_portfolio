@@ -1,6 +1,6 @@
 # 📜 류경빈 포트폴리오
 
-> 류경빈(Gyeongbin Ryoo) - growingpenguin Portfolio
+> 류경빈(Gyeongbin Ryoo) - growingpenguin🐧 Portfolio
 
 <br />
 
@@ -20,7 +20,20 @@
 기업이 필요로 하는 AI 알고리즘 개발, 소프트웨어 기능 개발 구현 및 신사업 기획 전반에 대한 이해를 키울 수 있었습니다 <br/>  
 프로젝트 역할면에서는 ***특히 딥러닝 예측 프로그램의 경우 개인 UROP 프로젝트로 진행하며 주도적인 역할***을 맡아 진행했습니다. <br/>
 
-## 1. 연안 부유 쓰레기 수거 및 재활용을 위한 소형 해양 모빌리티 개발 🚢
+## 1. 로봇친화빌딩과 외부 서비스 사업자간 연계 시나리오 상세화 및 사업 BM고도화
+
+> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+>
+> - 개발기간 : 2022.06.02-13
+> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
+> - Language : python3, javascript
+> - Skill : Django, MySQL
+>
+> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+
+<br />
+
+## 2. 연안 부유 쓰레기 수거 및 재활용을 위한 소형 해양 모빌리티 개발 🚢
 
 > 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
 >
@@ -36,7 +49,7 @@
 
 <br />
 
-## 2. 딥러닝을 이용한 위치 별 슬로싱 하중 예측 프로그램 개발
+## 3. 딥러닝을 이용한 위치 별 슬로싱 하중 예측 프로그램 개발💻
 
 > 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
@@ -49,18 +62,7 @@
 
 <br />
 
-## 3. 🍻 MyLittleBeer
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
->
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
-
-<br />
 
 # Research📊
 Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 하며 진행한 연구입니다!  
