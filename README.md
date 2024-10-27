@@ -62,7 +62,7 @@
 
 <br />
 
-# 📝Research
+# Research📊
 Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 하며 진행한 연구입니다!  
 프로젝트 역할면에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
 
