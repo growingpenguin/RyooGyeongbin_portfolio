@@ -40,11 +40,10 @@
 > 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
 >
 > - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
+> - 핵심 역할 : 배의 움직임을 시계열로 분석하고, 이를 바탕으로 AI 알고리즘을 개발하는데 참여함
 >
->> Back-end
+>> Machine Learning
 >> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
 
