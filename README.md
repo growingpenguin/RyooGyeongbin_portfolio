@@ -92,7 +92,7 @@ Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 �
 
 <br />
 
-## 2. 👞 MyLittleShoes
+## 2. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
 
 > 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
