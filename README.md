@@ -140,9 +140,6 @@ Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 �
 # 📞 Contact
 
 - 이메일 : sweetyleah0@gmail.com
-- 블로그 : <a href="https://velog.io/@kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
-  </a>
 - 깃허브 : <a href="https://github.com/growingpenguin">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
