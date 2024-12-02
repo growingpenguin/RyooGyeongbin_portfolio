@@ -1,4 +1,4 @@
-# 📜 류경빈 포트폴리오
+# 📜 Gyeongbin Ryoo Portfolio
 
 > 류경빈(Gyeongbin Ryoo) - growingpenguin Portfolio🐧
 
@@ -6,11 +6,11 @@
 
 # 👋 Intro
 
-> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 류경빈입니다!  
-> Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생******을 하였습니다 <br/>  
-> 국내 학회와 해외 학회에서의 저자로 발표를 하며 딥러닝 개발 역량을 기를 수 있었고 <br/> 
-> 학생 연구원으로 다수의 기업 과제에 기여하며 AI 알고리즘 개발 역량, 실행파일(.exe) 형태의 AI 서비스 개발 역량, 그리고 사업 기획 역량을 키울 수 있었습니다 <br/>
-> 기업 과제의 경우 보안 상의 이유로 일부 및 담당 역할만 정리하였으며 동아리 활동 및 내용은 ***영상***으로 기록했습니다.  
+> Hello! ***"someone who always strives to learn and take on new challenges!"*** 류경빈입니다!  
+> I worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the Mobility Research Lab <br/>  
+> Through presenting as an author at both domestic and international conferences, I was able to enhance my deep learning development skills. <br/> 
+> By contributing to multiple corporate projects as a student researcher, I developed expertise in AI algorithm development, creating executable (.exe) AI services, and business planning. <br/>
+> Due to security concerns, only partial details and my specific roles in corporate projects are summarized, and activities from my club experience are documented ***in video form*** <br/>  
 > 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다! <br/>
 
 <br />
