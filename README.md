@@ -17,8 +17,8 @@
 
 # 📝Industry Collaborated Projects
 These are the industry-academia collaboration projects I contributed to as a student researcher! <br/>  
-기업이 필요로 하는 AI 알고리즘 개발, 소프트웨어 기능 개발 구현 및 신사업 기획 전반에 대한 이해를 키울 수 있었습니다 <br/>  
-프로젝트 역할 면에서는 학생 연구원으로 ***특히 딥러닝 예측 프로그램의 경우 개인 UROP 프로젝트로 진행하며 주도적인 역할***을 맡아 진행했습니다. <br/>
+I developed a comprehensive understanding of AI algorithm development required by companies, software functionality implementation, and overall new business planning. <br/>  
+In terms of my role, as a student researcher, I particularly took ***a leading role in the deep learning prediction program***, which I conducted as part of an individual UROP project. <br/>
 
 ## 1. 로봇친화빌딩과 외부 서비스 사업자간 연계 시나리오 상세화 및 사업 BM고도화🔨
 
