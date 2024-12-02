@@ -6,7 +6,7 @@
 
 # 👋 Intro
 
-> Hello! ***"I am someone who always strives to learn and take on new challenges!"*** !  
+> Hello! ***"I am someone who always strives to learn and take on new challenges!"***  
 > I worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the Mobility Research Lab <br/>  
 > Through presenting as an author at both domestic and international conferences, I was able to enhance my deep learning development skills. <br/> 
 > By contributing to multiple corporate projects as a student researcher, I developed expertise in AI algorithm development, creating executable (.exe) AI services, and business planning. <br/>
