@@ -16,7 +16,7 @@
 <br />
 
 # 📝Industry Collaborated Projects
-학생 연구원으로서 기여한 산학 프로젝트들 입니다! <br/>  
+These are the industry-academia collaboration projects I contributed to as a student researcher! <br/>  
 기업이 필요로 하는 AI 알고리즘 개발, 소프트웨어 기능 개발 구현 및 신사업 기획 전반에 대한 이해를 키울 수 있었습니다 <br/>  
 프로젝트 역할 면에서는 학생 연구원으로 ***특히 딥러닝 예측 프로그램의 경우 개인 UROP 프로젝트로 진행하며 주도적인 역할***을 맡아 진행했습니다. <br/>
 
