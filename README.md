@@ -1,6 +1,6 @@
 # 📜 Gyeongbin Ryoo Portfolio
 
-> 류경빈(Gyeongbin Ryoo) - growingpenguin Portfolio🐧
+> Gyeongbin Ryoo(류경빈) - growingpenguin Portfolio🐧
 
 <br />
 
