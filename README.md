@@ -6,12 +6,12 @@
 
 # 👋 Intro
 
-> Hello! ***"someone who always strives to learn and take on new challenges!"*** 류경빈입니다!  
+> Hello! ***"I am someone who always strives to learn and take on new challenges!"*** !  
 > I worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the Mobility Research Lab <br/>  
 > Through presenting as an author at both domestic and international conferences, I was able to enhance my deep learning development skills. <br/> 
 > By contributing to multiple corporate projects as a student researcher, I developed expertise in AI algorithm development, creating executable (.exe) AI services, and business planning. <br/>
 > Due to security concerns, only partial details and my specific roles in corporate projects are summarized, and activities from my club experience are documented ***in video form*** <br/>  
-> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다! <br/>
+> You can find more detailed information <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a> about me here! <br/>
 
 <br />
 
