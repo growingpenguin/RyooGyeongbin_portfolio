@@ -20,26 +20,26 @@ These are the industry-academia collaboration projects I contributed to as a stu
 I developed a comprehensive understanding of AI algorithm development required by companies, software functionality implementation, and overall new business planning. <br/>  
 In terms of my role, as a student researcher, I particularly took ***a leading role in the deep learning prediction program***, which I conducted as part of an individual UROP project. <br/>
 
-## 1. 로봇친화빌딩과 외부 서비스 사업자간 연계 시나리오 상세화 및 사업 BM고도화🔨
+## 1. Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model🔨
 
-> 로봇 친화 빌딩의 표준 및 인증 절차를 구축, 시뮬레이션을 통해 빌딩별 특화 서비스의 최적화와 성능 검증에 기여함  
+> Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
 >
 > - 연구기간 : 2022.06.02-13
-> - 핵심 역할 : 시뮬레이션을 통한 분석, 표준 개발, 특허 출원에 기여하고 있음. <br/>
+> - Key Roles : Contributed to analysis via simulations, standard development, and patent applications <br/>
 > - 시뮬레이션을 통한 분석: 특정 기술 프레임워크를 활용하여 로봇 친화적 환경의 서비스 최적화와 운영 효율성 향상을 목표로 다양한 지표 분석과 맞춤형 서비스 구현을 진행함
 > - 표준 개발: 자율적 정보 교환 방식과 통신 규칙을 개발하여 특정 환경에 맞는 절차를 간소화하고 맞춤형 지원을 위한 기준을 설정했습니다. 또한, 다양한 요소와의 원활한 상호작용을 위한 방안을 마련하고, 지속 가능한 성장과 권리 보호를 위한 장기적 방향성을 제시하는데 기여하고 있음. <br/> 
 > - 특허 출원: 경쟁사의 특허에 대해 주요 요소를 분석하고, 분류, 발명 명칭, 대표 도면, 요약, 대표 청구항 등을 검토하였습니다. 또한, 로봇친화적인 건물 환경에서 다양한 운영 및 제어 기술의 상호작용을 분석하고 시스템 최적화 방안을 연구하여 기업의 특허 출원에 기여하고 있음. <br/>
 
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [Project Description]()
 
 <br />
 
-## 2. 연안 부유 쓰레기 수거 및 재활용을 위한 소형 해양 모빌리티 개발 🚢
+## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
-> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
+> Funded by Ministry of Science and ICT
 >
-> - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 배의 움직임을 시계열로 분석하고, 이를 바탕으로 AI 알고리즘을 개발하는데 참여함
+> - 개발기간 : 2023.03.01-2024.02.29
+> - 핵심 역할 : ML Programmer 
 >
 >> Machine Learning
 >> - Language : python3  
@@ -49,16 +49,16 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 <br />
 
-## 3. 딥러닝을 이용한 위치 별 슬로싱 하중 예측 프로그램 개발💻
+## 3. Position-specific sloshing load prediction program using deep learning💻
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> Funded by Hyundai Heavy Machinary
 >
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+> - 개발기간 : 2023.03.01-2023.11.30
+> - 핵심 역할 : PM & Devops & , Generative model를 이용한 신발 스타일링 기능 구현
+> - Language : C#, Python
+> - Skill : AWS, Visual Studio .NET, Pytorch 
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [Project Details]()
 
 <br />
 
