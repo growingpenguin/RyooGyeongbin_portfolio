@@ -73,10 +73,7 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
 > - Language : python3
 > - Skill : Django, Django-rest-framework
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 200px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 200px; height: auto;">
-</div>
+
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
@@ -84,15 +81,16 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 ## 2. Marine Sloshing Data Mining & Machine Learning
 
 > 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_  <br/>
-> ![MarineResearch1](https://github.com/user-attachments/assets/76c69c3b-49ef-47a8-bfe5-9d56cea47dd8) <br/>
 > - 연구기간 : 2022.07.07-09.02
 > - 핵심 역할 : 1.슬로싱 데이터의 특성별 스케일링을 진행함 2. 머신러닝을 활용하여 탱크 전체의 슬로싱 충격의 크기를 선형 및 비선형적 상관관계 분석을 함
-
 >
 >> Back-end
 >> - Language : python3  
 >> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 200px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 200px; height: auto;">
+</div> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
 >
 >> Front-end
