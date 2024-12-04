@@ -22,13 +22,13 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 ## 1. Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model🔨
 
+> Funded by Hyundai NGV (Affiliated by Hyundai Motors) 
 > Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
->
 > - 연구기간 : 2022.06.02-13
 > - Key Roles : Contributed to analysis via simulations, standard development, and patent applications <br/>
-> - 시뮬레이션을 통한 분석: 특정 기술 프레임워크를 활용하여 로봇 친화적 환경의 서비스 최적화와 운영 효율성 향상을 목표로 다양한 지표 분석과 맞춤형 서비스 구현을 진행함
-> - 표준 개발: 자율적 정보 교환 방식과 통신 규칙을 개발하여 특정 환경에 맞는 절차를 간소화하고 맞춤형 지원을 위한 기준을 설정했습니다. 또한, 다양한 요소와의 원활한 상호작용을 위한 방안을 마련하고, 지속 가능한 성장과 권리 보호를 위한 장기적 방향성을 제시하는데 기여하고 있음. <br/> 
-> - 특허 출원: 경쟁사의 특허에 대해 주요 요소를 분석하고, 분류, 발명 명칭, 대표 도면, 요약, 대표 청구항 등을 검토하였습니다. 또한, 로봇친화적인 건물 환경에서 다양한 운영 및 제어 기술의 상호작용을 분석하고 시스템 최적화 방안을 연구하여 기업의 특허 출원에 기여하고 있음. <br/>
+> - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
+> - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
+> - Patent Application: Analyzed key components of competitor patents, reviewed classifications, invention titles, representative drawings, abstracts, and main claims. Additionally, studied the interaction of various operational and control technologies in robot-friendly building environments and researched system optimization methods, contributing to the company's patent application process. <br/>
 
 > [Project Description]()
 
