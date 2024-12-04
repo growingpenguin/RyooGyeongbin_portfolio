@@ -38,7 +38,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 > Funded by Ministry of Science and ICT
 >
-> - 개발기간 : 2023.03.01-2024.02.29
+> - DevelopmentPeriod : 2023.03.01-2024.02.29
 > - Key Role : ML Programmer 
 >
 >> Machine Learning
@@ -53,8 +53,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 > Funded by Hyundai Heavy Machinary
 >
-> - 개발기간 : 2023.03.01-2023.11.30
-> - 핵심 역할 : PM & Devops & , Generative model를 이용한 신발 스타일링 기능 구현
+> - DevelopmentPeriod : 2023.03.01-2023.11.30
+> - Key Role : PM & Devops & , Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 > - Language : C#, Python
 > - Skill : AWS, Visual Studio .NET, Pytorch 
 >
