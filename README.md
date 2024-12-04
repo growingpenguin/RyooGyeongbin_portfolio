@@ -75,7 +75,7 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
 > - Language : python3
 > - Skill : Django, Django-rest-framework
->
+> ![MetaverseResearch1](https://github.com/user-attachments/assets/c800de81-6d4a-4d2c-89aa-746141c4ddb9) <br/>
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
