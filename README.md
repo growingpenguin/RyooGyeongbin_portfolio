@@ -73,7 +73,7 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
 > - Language : python3
 > - Skill : Django, Django-rest-framework
-> <div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 200px; height: auto;">
     <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 200px; height: auto;">
 </div>
