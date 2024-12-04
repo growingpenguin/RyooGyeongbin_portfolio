@@ -65,7 +65,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 
 # Research📊
-Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 하며 진행한 연구입니다!  
+Research conducted as an Undergraduate Research Assistant in the Marine Hydrodynamics AI Lab and the Mobility Research Lab  
 
 ## 1. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
 
