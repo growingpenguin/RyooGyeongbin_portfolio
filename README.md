@@ -39,12 +39,12 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > Funded by Ministry of Science and ICT
 >
 > - 개발기간 : 2023.03.01-2024.02.29
-> - 핵심 역할 : ML Programmer 
+> - Key Role : ML Programmer 
 >
 >> Machine Learning
->> - Language : python3  
+>> - Language : python  
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> [Project Description]()  
 
 
 <br />
