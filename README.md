@@ -43,7 +43,6 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > <img src="https://github.com/user-attachments/assets/76c69c3b-49ef-47a8-bfe5-9d56cea47dd8" alt="MarineResearch1" width="200">
 >> Machine Learning
 >> - Language : python  
->> ![MarineResearch1](https://github.com/user-attachments/assets/76c69c3b-49ef-47a8-bfe5-9d56cea47dd8)
 >> [Project Description]()  
 
 
