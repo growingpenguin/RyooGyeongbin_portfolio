@@ -54,7 +54,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > Funded by Hyundai Heavy Machinary
 >
 > - DevelopmentPeriod : 2023.03.01-2023.11.30
-> - Key Role : PM & Devops & , Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
+> - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 > - Language : C#, Python
 > - Skill : AWS, Visual Studio .NET, Pytorch 
 >
@@ -66,7 +66,6 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 # Research📊
 Marine Hydrodynamics AI Lab과 Mobility Research Lab에서 학부연구생을 하며 진행한 연구입니다!  
-프로젝트 역할면에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
 
 ## 1. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
 
