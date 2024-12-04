@@ -82,7 +82,10 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 ## 2. Marine Sloshing Data Mining & Machine Learning
 
 > 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_  <br/>
-> <img src="https://github.com/user-attachments/assets/76c69c3b-49ef-47a8-bfe5-9d56cea47dd8" alt="MarineResearch1" width="200"> <br/>
+> <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/76c69c3b-49ef-47a8-bfe5-9d56cea47dd8" alt="MarineResearch1" width="200">
+    <img src="https://github.com/user-attachments/assets/c800de81-6d4a-4d2c-89aa-746141c4ddb9" alt="MetaverseResearch1" width="200">
+</div> <br/>
 > - 연구기간 : 2022.07.07-09.02
 > - 핵심 역할 : 1.슬로싱 데이터의 특성별 스케일링을 진행함 2. 머신러닝을 활용하여 탱크 전체의 슬로싱 충격의 크기를 선형 및 비선형적 상관관계 분석을 함
 
