@@ -24,7 +24,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 > Funded by Hyundai NGV (Affiliated by Hyundai Motors) <br/>
 > Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
-> - Development Period: 2022.06.02-13 <br/>
+> - Development Period: 2024.06.05 – 2025.01.31 <br/>
 > - Key Role : Intellectual Property Strategist, Patent Analyst <br/>
 > - Contributed to analysis via simulations, standard development, and patent applications <br/>
 > - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
@@ -44,14 +44,12 @@ Contributed to scaling time-series data measuring ship movements and testing and
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 300px; height: auto;">
 </div> 
-
-
 <br />
 
 ## 3. Position-specific sloshing load prediction program using deep learning💻
 
 > Funded by Hyundai Heavy Machinary
->
+> 
 > - Development Period : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer <br/>
 Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
@@ -127,7 +125,7 @@ Conducted research analyzing the relationship between the 6-DOF motions of LNG c
 
 # 📞 Contact
 
-- 이메일 : sweetyleah0@gmail.com
-- 깃허브 : <a href="https://github.com/growingpenguin">
+- Email : sweetyleah0@gmail.com
+- Github : <a href="https://github.com/growingpenguin">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
