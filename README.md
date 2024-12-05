@@ -22,10 +22,10 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 ## 1. Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model🔨
 
-> Funded by Hyundai NGV (Affiliated by Hyundai Motors) 
+> Funded by Hyundai NGV (Affiliated by Hyundai Motors) <br/>
 > Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
-> - Development Period: 2022.06.02-13
-> - Key Role : Intellectual Property Strategist, Patent Analyst
+> - Development Period: 2022.06.02-13 <br/>
+> - Key Role : Intellectual Property Strategist, Patent Analyst <br/>
 > - Contributed to analysis via simulations, standard development, and patent applications <br/>
 > - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
 > - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
@@ -34,8 +34,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
-> Funded by Ministry of Science and ICT
-> - Development Period: 2023.03.01-2024.02.29
+> Funded by Ministry of Science and ICT <br/>
+> - Development Period: 2023.03.01-2024.02.29 <br/>
 > - Key Role : Data Mining Specialist, Machine Learning Programmer <br/>
 Contributed to scaling time-series data measuring ship movements and testing and improving the performance of AI algorithms using RNN, LSTM, and GRU models <br/>
 >> - Language : C++/C#, Python
