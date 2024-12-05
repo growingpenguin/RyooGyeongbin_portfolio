@@ -32,6 +32,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 >> - [Project Progress PPT]()
 >> - [UROP Project Report]([[2023-1]-UROP_Report_20211327_GyeongbinRyoo.pdf](https://github.com/user-attachments/files/18021312/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
 )
+)
 <br />
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
