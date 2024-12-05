@@ -29,10 +29,6 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
 > - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
 > - Patent Application: Analyzed key components of competitor patents, reviewed classifications, invention titles, representative drawings, abstracts, and main claims. Additionally, studied the interaction of various operational and control technologies in robot-friendly building environments and researched system optimization methods, contributing to the company's patent application process. <br/>
->> - [Project Progress PPT]()
->> - [2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf](https://github.com/user-attachments/files/18021363/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
-)
-)
 <br />
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
@@ -53,7 +49,9 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - DevelopmentPeriod : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 > - Language : C#, Python
-> - OA : AWS, Visual Studio .NET, Pytorch 
+> - OA : AWS, Visual Studio .NET, Pytorch
+>> - [UROP_Project Progress PPT]()
+>> - [2023-1-UROP_Report](https://github.com/user-attachments/files/18021363/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
 <h3>Software Overview</h3>
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="width: 400px; height: auto;">
