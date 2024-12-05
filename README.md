@@ -75,9 +75,10 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 Conducted research on extracting virtual environment data from the Nvidia Omniverse Isaac Sim platform and validating the significance of the data
 >
 > - Research Period : 2023.03-2023.12
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+> - Key Role : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
+>> - OA : Ros2, Linux, Pytorch   
+>> - Language : Python
+> - Skill : 
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/6a592498-751a-4b0b-bf22-098f3a47142c" alt="Meta1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/9251b9b9-d7a8-4923-9b07-cdb475f4f464" alt="Meta2" style="width: 300px; height: auto;">
@@ -91,9 +92,8 @@ Conducted research on extracting virtual environment data from the Nvidia Omnive
 Significant impacts occur due to sloshing during the transportation of LNG (liquefied natural gas), influenced by various factors such as the amount of liquid filled, the direction of the ship's movement, and the period and height of waves. To predict these sloshing impacts, we conducted research utilizing machine learning techniques. <br/>
 > - Research Period : 2023.12-2025.01
 > - Key Role : 1.Performed scaling of sloshing data based on its characteristics. 2. Conducted linear and nonlinear correlation analysis of the overall sloshing impact on the tank using machine learning. 
->> Machine Learning
->> - OA : Ros2, Linux    
->> - Language : python
+>> - OA : Pytorch, Pandas,     
+>> - Language : Python, C/C++
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 300px; height: auto;">
