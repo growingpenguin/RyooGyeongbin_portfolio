@@ -54,13 +54,13 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Language : C#, Python
 > - Skill : AWS, Visual Studio .NET, Pytorch 
 <h3>Software Overview</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="width: 300px; height: auto;">
     <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/e21fafb9-054e-43fa-b212-2b0765f03316" alt="Softwarepic2" style="width: 300px; height: auto;">
 </div>
 
 <h3>Project Workflow</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/bc09d335-9e6c-44f4-9eea-ddbad6cc19ee" alt="Softwarepic3" style="width: 300px; height: auto;">
 </div>
 
@@ -79,7 +79,7 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
 > - Language : python3
 > - Skill : Django, Django-rest-framework
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/6a592498-751a-4b0b-bf22-098f3a47142c" alt="Meta1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/9251b9b9-d7a8-4923-9b07-cdb475f4f464" alt="Meta2" style="width: 300px; height: auto;">
 </div> 
