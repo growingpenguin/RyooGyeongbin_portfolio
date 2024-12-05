@@ -40,8 +40,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > Funded by Ministry of Science and ICT
 > - Development Period: 2023.03.01-2024.02.29
 > - Key Role : Data Miner, ML Programmer 
-> - Language : C++/C#, Python
-> - Skill : AWS, Visual Studio .NET, Pytorch 
+>> - Language : C++/C#, Python
+>> - OA : AWS, Visual Studio .NET, Pytorch 
 
 
 <br />
@@ -53,7 +53,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - DevelopmentPeriod : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 > - Language : C#, Python
-> - Skill : AWS, Visual Studio .NET, Pytorch 
+> - OA : AWS, Visual Studio .NET, Pytorch 
 <h3>Software Overview</h3>
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="width: 400px; height: auto;">
@@ -101,13 +101,6 @@ Significant impacts occur due to sloshing during the transportation of LNG (liqu
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 300px; height: auto;">
 </div> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
->
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 # Papers
 > 1. [A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906510)
