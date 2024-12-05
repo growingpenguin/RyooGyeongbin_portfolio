@@ -50,7 +50,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 > Funded by Hyundai Heavy Machinary
 >
-> - DevelopmentPeriod : 2023.03.01-2023.11.30
+> - Development Period : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 >> - Language : C#, Python
 >> - OA : AWS, Visual Studio .NET, Pytorch
