@@ -81,9 +81,9 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 
 > Metaverse Research 
 Conducted research on extracting virtual environment data from the Nvidia Omniverse Isaac Sim platform and validating the significance of the data
->
 > - Research Period : 2023.03-2023.12
-> - Key Role : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
+> - Key Role : Machine Learning Researcher, ROS2 Engineer <br/>
+
 >> - OA : Ros2, Linux, Pytorch   
 >> - Language : Python
 > - Skill : 
@@ -99,7 +99,8 @@ Conducted research on extracting virtual environment data from the Nvidia Omnive
 > Sloshing AI Prediction  <br/>
 Significant impacts occur due to sloshing during the transportation of LNG (liquefied natural gas), influenced by various factors such as the amount of liquid filled, the direction of the ship's movement, and the period and height of waves. To predict these sloshing impacts, we conducted research utilizing machine learning techniques. <br/>
 > - Research Period : 2023.12-2025.01
-> - Key Role : 1.Performed scaling of sloshing data based on its characteristics. 2. Conducted linear and nonlinear correlation analysis of the overall sloshing impact on the tank using machine learning. 
+> - Key Role : Data Mining Specialist, Machine Learning Researcher
+1.Performed scaling of sloshing data based on its characteristics. 2. Conducted linear and nonlinear correlation analysis of the overall sloshing impact on the tank using machine learning <br/> 
 >> - OA : Pytorch, Pandas, Numpy    
 >> - Language : Python, C/C++
 
