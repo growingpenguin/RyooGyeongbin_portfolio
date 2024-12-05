@@ -30,8 +30,6 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
 > - Patent Application: Analyzed key components of competitor patents, reviewed classifications, invention titles, representative drawings, abstracts, and main claims. Additionally, studied the interaction of various operational and control technologies in robot-friendly building environments and researched system optimization methods, contributing to the company's patent application process. <br/>
 
-> [Project Description]()
-
 <br />
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
@@ -55,8 +53,12 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 > - Language : C#, Python
 > - Skill : AWS, Visual Studio .NET, Pytorch 
->
-> [Project Details]()
+<h3>Software Overview</h3>
+<img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="max-width: 100%; height: auto;">
+<img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/e21fafb9-054e-43fa-b212-2b0765f03316" alt="Softwarepic2" style="max-width: 100%; height: auto;">
+
+<h3>Project Workflow</h3>
+<img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/bc09d335-9e6c-44f4-9eea-ddbad6cc19ee" alt="Softwarepic3" style="max-width: 100%; height: auto;">
 
 <br />
 
