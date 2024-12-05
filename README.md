@@ -29,7 +29,9 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
 > - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
 > - Patent Application: Analyzed key components of competitor patents, reviewed classifications, invention titles, representative drawings, abstracts, and main claims. Additionally, studied the interaction of various operational and control technologies in robot-friendly building environments and researched system optimization methods, contributing to the company's patent application process. <br/>
-
+>> - [Project Progress PPT]()
+>> - [UROP Project Report]([[2023-1]-UROP_Report_20211327_GyeongbinRyoo.pdf](https://github.com/user-attachments/files/18021312/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
+)
 <br />
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
