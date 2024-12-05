@@ -54,11 +54,15 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Language : C#, Python
 > - Skill : AWS, Visual Studio .NET, Pytorch 
 <h3>Software Overview</h3>
-<img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="max-width: 10%; height: auto;">
-<img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/e21fafb9-054e-43fa-b212-2b0765f03316" alt="Softwarepic2" style="max-width: 10%; height: auto;">
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="width: 300px; height: auto;">
+    <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/e21fafb9-054e-43fa-b212-2b0765f03316" alt="Softwarepic2" style="width: 300px; height: auto;">
+</div>
 
 <h3>Project Workflow</h3>
-<img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/bc09d335-9e6c-44f4-9eea-ddbad6cc19ee" alt="Softwarepic3" style="max-width: 10%; height: auto;">
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/bc09d335-9e6c-44f4-9eea-ddbad6cc19ee" alt="Softwarepic3" style="width: 300px; height: auto;">
+</div>
 
 <br />
 
