@@ -38,6 +38,10 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Key Role : Data Miner, ML Programmer 
 >> - Language : C++/C#, Python
 >> - OA : AWS, Visual Studio .NET, Pytorch 
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
+    <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 300px; height: auto;">
+</div> 
 
 
 <br />
@@ -93,12 +97,8 @@ Conducted research on extracting virtual environment data from the Nvidia Omnive
 Significant impacts occur due to sloshing during the transportation of LNG (liquefied natural gas), influenced by various factors such as the amount of liquid filled, the direction of the ship's movement, and the period and height of waves. To predict these sloshing impacts, we conducted research utilizing machine learning techniques. <br/>
 > - Research Period : 2023.12-2025.01
 > - Key Role : 1.Performed scaling of sloshing data based on its characteristics. 2. Conducted linear and nonlinear correlation analysis of the overall sloshing impact on the tank using machine learning. 
->> - OA : Pytorch, Pandas,     
+>> - OA : Pytorch, Pandas, Numpy    
 >> - Language : Python, C/C++
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
-    <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 300px; height: auto;">
-</div> 
 
 # Papers
 > 1. [A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906510)
