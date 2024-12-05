@@ -1,4 +1,4 @@
-# 📜 Gyeongbin Ryoo Portfolio
+![image](https://github.com/user-attachments/assets/7b4991ac-0f70-4c58-9736-c513d8c568b9)# 📜 Gyeongbin Ryoo Portfolio
 
 > Gyeongbin Ryoo(류경빈) - growingpenguin Portfolio🐧
 
@@ -72,7 +72,8 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 
 ## 1. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> Metaverse Research 
+Conducted research on extracting virtual environment data from the Nvidia Omniverse Isaac Sim platform and validating the significance of the data
 >
 > - 연구기간 : 2023.12-00.00
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
@@ -88,7 +89,8 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 
 ## 2. Marine Sloshing Data Mining & Machine Learning
 
-> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_  <br/>
+> Sloshing AI Prediction  <br/>
+Significant impacts occur due to sloshing during the transportation of LNG (liquefied natural gas), influenced by various factors such as the amount of liquid filled, the direction of the ship's movement, and the period and height of waves. To predict these sloshing impacts, we conducted research utilizing machine learning techniques. <br/>
 > - 연구기간 : 2022.07.07-09.02
 > - 핵심 역할 : 1.슬로싱 데이터의 특성별 스케일링을 진행함 2. 머신러닝을 활용하여 탱크 전체의 슬로싱 충격의 크기를 선형 및 비선형적 상관관계 분석을 함
 >
