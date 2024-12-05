@@ -104,7 +104,7 @@ Significant impacts occur due to sloshing during the transportation of LNG (liqu
 
 # Papers
 > 1. "A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data," accepted for presentation at ICTC 2024, 2024.10.17 (First co-author) , In Preparation for Publication <br/>
-[Link]() <br/>
+[Link](https://github.com/user-attachments/files/18022337/ICTC_paper.pdf) <br/>
 Led research on fine-tuning and analyzing the performance of object detection AI models using virtual data collected from NVIDIA Omniverse, demonstrating that virtual data is effective in improving model performance in real-world environments <br/>
 > 2. "Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case," accepted at the KOSIME Domestic Conference, 2024.07.05 (Co-author)
 [Link](https://github.com/growingpenguin/CV_Korean/blob/main/papers/KOSIME_%EA%B8%B0%EC%88%A0%EA%B2%BD%EC%98%81%EA%B2%BD%EC%A0%9C%ED%95%99%ED%9A%8C-%EC%B4%88%EB%A1%9D%EC%A7%91.pdf) <br/>
