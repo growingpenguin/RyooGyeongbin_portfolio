@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b4991ac-0f70-4c58-9736-c513d8c568b9)# 📜 Gyeongbin Ryoo Portfolio
+# 📜 Gyeongbin Ryoo Portfolio
 
 > Gyeongbin Ryoo(류경빈) - growingpenguin Portfolio🐧
 
