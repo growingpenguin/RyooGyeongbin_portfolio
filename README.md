@@ -48,8 +48,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 >
 > - DevelopmentPeriod : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
-> - Language : C#, Python
-> - OA : AWS, Visual Studio .NET, Pytorch
+>> - Language : C#, Python
+>> - OA : AWS, Visual Studio .NET, Pytorch
 >> - [Urop_Project_ppt](https://github.com/user-attachments/files/18021448/Urop_Project_Progress.pptx)
 >> - [2023-1-UROP_Report](https://github.com/user-attachments/files/18021363/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
 <h3>Software Overview</h3>
