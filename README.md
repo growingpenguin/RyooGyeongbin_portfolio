@@ -36,7 +36,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 > Funded by Ministry of Science and ICT
 > - Development Period: 2023.03.01-2024.02.29
-> - Key Role : ML Programmer 
+> - Key Role : Data Miner, ML Programmer 
 > - Language : C++/C#, Python
 > - Skill : AWS, Visual Studio .NET, Pytorch 
 
