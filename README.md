@@ -40,7 +40,6 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > - Key Role : ML Programmer 
 >> Machine Learning
 >> - Language : python  
->> [Project Description]()  
 
 
 <br />
@@ -111,8 +110,11 @@ Research conducted as an Undergraduate Research Assistant in the Marine Hydrodyn
 <br />
 
 
-
-
+# Papers
+> 1. [A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906510)
+> 2. [Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case](https://github.com/growingpenguin/CV_Korean/blob/main/papers/KOSIME_%EA%B8%B0%EC%88%A0%EA%B2%BD%EC%98%81%EA%B2%BD%EC%A0%9C%ED%95%99%ED%9A%8C-%EC%B4%88%EB%A1%9D%EC%A7%91.pdf)
+> 3. Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment
+> 4. [Analyzing Experimental Data of 6-Dof Motions and Sloshing Impacts in LNG Carriers](https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2024/87820/V05AT06A064/1202497)
 
 
 
