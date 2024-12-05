@@ -25,7 +25,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > Funded by Hyundai NGV (Affiliated by Hyundai Motors) 
 > Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
 > - Development Period: 2022.06.02-13
-> - Key Roles : Contributed to analysis via simulations, standard development, and patent applications <br/>
+> - Key Role : Intellectual Property Strategist, Patent Analyst
+> - Contributed to analysis via simulations, standard development, and patent applications <br/>
 > - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
 > - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
 > - Patent Application: Analyzed key components of competitor patents, reviewed classifications, invention titles, representative drawings, abstracts, and main claims. Additionally, studied the interaction of various operational and control technologies in robot-friendly building environments and researched system optimization methods, contributing to the company's patent application process. <br/>
@@ -35,7 +36,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 > Funded by Ministry of Science and ICT
 > - Development Period: 2023.03.01-2024.02.29
-> - Key Role : Data Miner, ML Programmer 
+> - Key Role : Data Mining Specialist, Machine Learning Programmer <br/>
+Contributed to scaling time-series data measuring ship movements and testing and improving the performance of AI algorithms using RNN, LSTM, and GRU models <br/>
 >> - Language : C++/C#, Python
 >> - OA : AWS, Visual Studio .NET, Pytorch 
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -51,7 +53,8 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 > Funded by Hyundai Heavy Machinary
 >
 > - Development Period : 2023.03.01-2023.11.30
-> - Key Role : Project Manager(PM) & Full-Stack Developer, Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
+> - Key Role : Project Manager(PM) & Full-Stack Developer <br/>
+Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 >> - Language : C#, Python
 >> - OA : AWS, Visual Studio .NET, Pytorch
 >> - [Urop_Project_ppt](https://github.com/user-attachments/files/18021448/Urop_Project_Progress.pptx)
