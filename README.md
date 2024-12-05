@@ -35,11 +35,10 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
 > Funded by Ministry of Science and ICT
->
 > - Development Period: 2023.03.01-2024.02.29
 > - Key Role : ML Programmer 
->> Machine Learning
->> - Language : python  
+> - Language : C++/C#, Python
+> - Skill : AWS, Visual Studio .NET, Pytorch 
 
 
 <br />
