@@ -122,15 +122,13 @@ Sentiment analysis of Korean movie reviews in the Naver Sentiment Movie Corpus u
 >> **Implemented features** <br/>
 Fine-Tuned LLaMA-2-7B Adapter for NSMC: Optimized the meta-llama/Llama-2-7b-chat-hf model for Korean movie reviews in NSMC using LoRA for accurate sentiment predictions <br/>
 Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for nuanced, culturally aware sentiment classification in NSMC <br/>
->> **Code** <br/>
-https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
+>> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
 > **2.Metaverse TurtleBot Burger Synchronization Project** <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 >> **Implemented features** <br/>
 
->> **Code** <br/>
-https://github.com/growingpenguin/TurtleVerseSync <br/>
+>> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
 # 📞 Contact
 
