@@ -135,7 +135,8 @@ Set up network integration between TurtleBot Burger and a Node.js server <br/>
 
 > **3. Metaverse TurtleBot Burger Synchronization Project** <br/>
 >> **Implemented features** <br/>
->> **Code:** https://github.com/growingpenguin/ELECourseSummer <br/>
+
+>> **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
 
 
 # 📞 Contact
