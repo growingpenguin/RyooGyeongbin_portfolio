@@ -117,14 +117,14 @@ Conducted research utilizing data collected from a virtual environment to train 
 Conducted research analyzing the relationship between the 6-DOF motions of LNG carriers and sloshing impact loads by utilizing experimental data from over 5,000 marine conditions. Using machine learning techniques such as LightGBM and GAM, the study demonstrated that acceleration is the most significant variable affecting sloshing loads <br/>
 
 # Mini Projects🐾
-> **1.NSMC Sentiment Analysis with Llama-2 & KT-AI** <br/>
+> **1. NSMC Sentiment Analysis with Llama-2 & KT-AI** <br/>
 Sentiment analysis of Korean movie reviews in the Naver Sentiment Movie Corpus using two state-of-the-art language models: [meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and [KT-AI/midm-bitext-S-7B-inst-v1](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1) <br/>
 >> **Implemented features** <br/>
 Fine-Tuned LLaMA-2-7B Adapter for NSMC: Optimized the meta-llama/Llama-2-7b-chat-hf model for Korean movie reviews in NSMC using LoRA for accurate sentiment predictions <br/>
 Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for nuanced, culturally aware sentiment classification in NSMC <br/>
 >> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
-> **2.Metaverse TurtleBot Burger Synchronization Project** <br/>
+> **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 >> **Implemented features** <br/>
 
