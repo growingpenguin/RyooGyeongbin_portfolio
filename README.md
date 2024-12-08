@@ -127,9 +127,9 @@ Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for 
 > **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 >> **Implemented features** <br/>
-**Developed a 2D Game Environment in Unity** <br/>
+1)Developed a 2D Game Environment in Unity <br/>
 Created a game featuring a cat navigating obstacles <br/>
-**Configured Network Communication** <br/>
+2)Configured Network Communication <br/>
 Set up network integration between TurtleBot Burger and a Node.js server <br/>
 >> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
