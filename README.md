@@ -117,6 +117,7 @@ Conducted research analyzing the relationship between the 6-DOF motions of LNG c
 
 # Mini Projects🐾
 > **1. NSMC Sentiment Analysis with Llama-2 & KT-AI** <br/>
+![Llama](https://github.com/user-attachments/assets/d09d2739-f731-44a2-a9ba-5aa10fa0259d) <br/>
 Sentiment analysis of Korean movie reviews in the Naver Sentiment Movie Corpus using two state-of-the-art language models: [meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and [KT-AI/midm-bitext-S-7B-inst-v1](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1) <br/>
 >> **Implemented features** <br/>
 Fine-Tuned LLaMA-2-7B Adapter for NSMC: Optimized the meta-llama/Llama-2-7b-chat-hf model for Korean movie reviews in NSMC using LoRA for accurate sentiment predictions <br/>
