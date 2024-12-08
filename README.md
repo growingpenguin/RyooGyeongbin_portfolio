@@ -76,7 +76,6 @@ Responsible for building a login feature using AWS implementing functionality fo
 Research conducted as an Undergraduate Research Assistant in the Marine Hydrodynamics AI Lab and the Mobility Research Lab  
 
 ## 1. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
-<img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="700"/> <br/>
 > Metaverse Research 
 Conducted research on extracting virtual environment data from the Nvidia Omniverse Isaac Sim platform and validating the significance of the data
 > - Research Period : 2023.03-2023.12
@@ -125,6 +124,7 @@ Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for 
 >> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
 > **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
+<img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="700"/> <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 >> **Implemented features** <br/>
 1)Developed a 2D Game Environment in Unity <br/>
