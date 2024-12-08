@@ -124,7 +124,7 @@ Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for 
 >> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
 > **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
-<img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="700"/> <br/>
+<img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="500"/> <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 >> **Implemented features** <br/>
 1)Developed a 2D Game Environment in Unity <br/>
