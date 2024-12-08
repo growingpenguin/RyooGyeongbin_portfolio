@@ -133,7 +133,8 @@ Created a game featuring a cat navigating obstacles <br/>
 Set up network integration between TurtleBot Burger and a Node.js server <br/>
 >> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
-> **3. Metaverse TurtleBot Burger Synchronization Project** <br/>
+> **3. CNN-LSTM Sentimental Analysis Project** <br/>
+![CNN-LSTM](https://github.com/user-attachments/assets/20a7504a-9ecd-4492-8224-d3f910b85414) <br/>
 >> **Implemented features** <br/>
 Analyze and improve their performance using data from the RAVDESS, SAVEE, and TESS datasets <br/>
 Compares three machine learning models—Pure CNN, CNN-LSTM, and Pure LSTM—each designed for different types of tasks <br/>
