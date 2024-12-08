@@ -116,9 +116,10 @@ Conducted research utilizing data collected from a virtual environment to train 
 [Download PDF](https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2024/87820/V05AT06A064/1202497) <br/>
 Conducted research analyzing the relationship between the 6-DOF motions of LNG carriers and sloshing impact loads by utilizing experimental data from over 5,000 marine conditions. Using machine learning techniques such as LightGBM and GAM, the study demonstrated that acceleration is the most significant variable affecting sloshing loads <br/>
 
-
-
-
+# Mini Projects🐾
+> 1.NSMC Sentiment Analysis with Llama-2 & KT-AI
+Sentiment analysis of Korean movie reviews in the Naver Sentiment Movie Corpus using two state-of-the-art language models: [meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and [KT-AI/midm-bitext-S-7B-inst-v1](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1) <br/>
+> 2.NSMC Sentiment Analysis with Llama-2 & KT-AI
 
 # 📞 Contact
 
