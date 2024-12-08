@@ -135,7 +135,8 @@ Set up network integration between TurtleBot Burger and a Node.js server <br/>
 
 > **3. Metaverse TurtleBot Burger Synchronization Project** <br/>
 >> **Implemented features** <br/>
-
+Analyze and improve their performance using data from the RAVDESS, SAVEE, and TESS datasets <br/>
+Compares three machine learning models—Pure CNN, CNN-LSTM, and Pure LSTM—each designed for different types of tasks <br/>
 >> **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
 
 
