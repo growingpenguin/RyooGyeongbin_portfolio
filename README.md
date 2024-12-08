@@ -76,7 +76,7 @@ Responsible for building a login feature using AWS implementing functionality fo
 Research conducted as an Undergraduate Research Assistant in the Marine Hydrodynamics AI Lab and the Mobility Research Lab  
 
 ## 1. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
-
+<img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="300"/> <br/>
 > Metaverse Research 
 Conducted research on extracting virtual environment data from the Nvidia Omniverse Isaac Sim platform and validating the significance of the data
 > - Research Period : 2023.03-2023.12
