@@ -133,6 +133,11 @@ Created a game featuring a cat navigating obstacles <br/>
 Set up network integration between TurtleBot Burger and a Node.js server <br/>
 >> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
+> **3. Metaverse TurtleBot Burger Synchronization Project** <br/>
+>> **Implemented features** <br/>
+>> **Code:** https://github.com/growingpenguin/ELECourseSummer <br/>
+
+
 # 📞 Contact
 
 - Email : sweetyleah0@gmail.com
