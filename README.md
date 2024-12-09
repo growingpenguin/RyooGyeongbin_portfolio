@@ -49,7 +49,6 @@ Contributed to scaling time-series data measuring ship movements and testing and
 ## 3. Position-specific sloshing load prediction program using deep learning💻
 
 > Funded by Hyundai Heavy Machinary
-> 
 > - Development Period : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer <br/>
 Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
@@ -162,9 +161,9 @@ Participated in a project to find the optimal equation that represents a phenome
 ## **5. Integrated Platform for Internal and External Activity Announcements with Recommendation System -**
 Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
 > **Implemented features** <br/>
-> - Designed the system architecture for an Android application and integrated AWS Lambda and S3 for backend services <br/>
-> - Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
-> - Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
+1)Designed the system architecture for an Android application and integrated AWS Lambda and S3 for backend services <br/>
+2)Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
+3)Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
 ### Videos:
 2. [Video 1: Watch on YouTube](https://www.youtube.com/watch?v=vkGqPW5nRsc)
 3. [Video 2: Watch on YouTube](https://www.youtube.com/watch?v=IdBTc7b7eUY)
