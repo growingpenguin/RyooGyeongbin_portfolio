@@ -44,7 +44,7 @@ Contributed to scaling time-series data measuring ship movements and testing and
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/657daec6-bba9-4911-99ab-f4d9745f126a" alt="Marine2" style="width: 300px; height: auto;">
 </div> 
-<br />
+<br/>
 
 ## 3. Position-specific sloshing load prediction program using deep learning💻
 
@@ -53,8 +53,8 @@ Contributed to scaling time-series data measuring ship movements and testing and
 > - Development Period : 2023.03.01-2023.11.30
 > - Key Role : Project Manager(PM) & Full-Stack Developer <br/>
 Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
->> - Language : C#, Python
->> - OA : AWS, Visual Studio .NET, Pytorch
+>> - Language : C#, Python <br/>
+>> - OA : AWS, Visual Studio .NET, Pytorch <br/>
 >> - [Urop_Project_ppt](https://github.com/user-attachments/files/18021448/Urop_Project_Progress.pptx)
 >> - [2023-1-UROP_Report](https://github.com/user-attachments/files/18021363/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
 <h3>Software Overview</h3>
