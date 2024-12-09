@@ -131,36 +131,35 @@ Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for 
 ## **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
 <img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="500"/> <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
->> **Implemented features** <br/>
+> **Implemented features** <br/>
 1)Developed a 2D Game Environment in Unity <br/>
 Created a game featuring a cat navigating obstacles <br/>
 2)Configured Network Communication <br/>
 Set up network integration between TurtleBot3 Burger and a Node.js server <br/>
->> - OA : Node.js, Ros2    
->> - Language : C#
->> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
+> - OA : Node.js, Ros2    
+> - Language : C#
+> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
 ## **3. CNN-LSTM Sentimental Analysis Project** <br/>
 <img src="https://github.com/user-attachments/assets/20a7504a-9ecd-4492-8224-d3f910b85414" alt="CNN-LSTM" width="800"/> <br/>
->> **Implemented features** <br/>
+> **Implemented features** <br/>
 Analyze and improve their performance using data from the RAVDESS, SAVEE, and TESS datasets <br/>
 Compares three machine learning models—Pure CNN, CNN-LSTM, and Pure LSTM—each designed for different types of tasks <br/>
->> - OA : Node.js, Ros2 <br/>    
->> - Language : Python <br/>
->> **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
->> **Instagram:** https://www.instagram.com/p/C-eybmCpKYW/?igsh=YnAzb2kwbnN4dmVo <br/>
+> - OA : Node.js, Ros2 <br/>    
+> - Language : Python <br/>
+> **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
+> **Instagram:** https://www.instagram.com/p/C-eybmCpKYW/?igsh=YnAzb2kwbnN4dmVo <br/>
 
 ## **4. Genetic Algorithm Project** <br/>
 Participated in a project to find the optimal equation that represents a phenomenon (Column G) using the combinations of six properties (A, B, C, D, E, F) from a given dataset.csv by applying Genetic Programming and Dynamic Programming <br/>
->> **Implemented features** <br/>
+> **Implemented features** <br/>
 1)Generated initial solutions with up to six operators, calculated cost using MSE principles, and assessed fitness for the parent population <br/>
 2)Selected the best-fit parents from the population, performed crossover and mutation with probabilistic gene selection, and discarded invalid offspring <br/>
 3)Replaced the bottom 10% of the population with random solutions and iteratively evolved generations to return the best solution <br/>
->> - Language : C++ <br/>
+> - Language : C++ <br/>
 
 
 # 📞 Contact
-
 - Email : sweetyleah0@gmail.com
 - Github : <a href="https://github.com/growingpenguin">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
