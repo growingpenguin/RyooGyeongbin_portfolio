@@ -169,7 +169,7 @@ Developed an Android application that provides internal and external activity an
 
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; justify-content: space-around;">
   <iframe width="200" height="200" src="https://www.youtube.com/embed/SmBZreBJgTM" frameborder="0" allowfullscreen></iframe>
   <iframe width="200" height="200" src="https://www.youtube.com/embed/vkGqPW5nRsc" frameborder="0" allowfullscreen></iframe>
   <iframe width="200" height="200" src="https://www.youtube.com/embed/IdBTc7b7eUY" frameborder="0" allowfullscreen></iframe>
