@@ -147,8 +147,8 @@ Analyze and improve their performance using data from the RAVDESS, SAVEE, and TE
 Compares three machine learning models—Pure CNN, CNN-LSTM, and Pure LSTM—each designed for different types of tasks <br/>
 > - OA : Node.js, Ros2 <br/>    
 > - Language : Python <br/>
-> **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
-> **Instagram:** https://www.instagram.com/p/C-eybmCpKYW/?igsh=YnAzb2kwbnN4dmVo <br/>
+> - **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
+> - **Instagram:** https://www.instagram.com/p/C-eybmCpKYW/?igsh=YnAzb2kwbnN4dmVo <br/>
 
 ## **4. Genetic Algorithm Project** <br/>
 Participated in a project to find the optimal equation that represents a phenomenon (Column G) using the combinations of six properties (A, B, C, D, E, F) from a given dataset.csv by applying Genetic Programming and Dynamic Programming <br/>
@@ -157,7 +157,7 @@ Participated in a project to find the optimal equation that represents a phenome
 2)Selected the best-fit parents from the population, performed crossover and mutation with probabilistic gene selection, and discarded invalid offspring <br/>
 3)Replaced the bottom 10% of the population with random solutions and iteratively evolved generations to return the best solution <br/>
 > - Language : C++ <br/>
-
+> - **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
 
 # 📞 Contact
 - Email : sweetyleah0@gmail.com
