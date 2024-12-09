@@ -13,7 +13,7 @@
 > Due to security concerns, only partial details and my specific roles in corporate projects are summarized, and activities from my club experience are documented ***in video form*** <br/>  
 > You can find more detailed information <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> </a> about me here! <br/>
 
-<br />
+<br/>
 
 # 📝Industry Collaborated Projects
 These are the industry-academia collaboration projects I contributed to as a student researcher! <br/>  
@@ -89,7 +89,7 @@ Conducted research on extracting virtual environment data from the Nvidia Omnive
     <img src="https://github.com/user-attachments/assets/9251b9b9-d7a8-4923-9b07-cdb475f4f464" alt="Meta2" style="width: 300px; height: auto;">
 </div> 
 
-<br />
+<br/>
 
 ## 2. Marine Sloshing Data Mining & Machine Learning
 
@@ -158,6 +158,19 @@ Participated in a project to find the optimal equation that represents a phenome
 3)Replaced the bottom 10% of the population with random solutions and iteratively evolved generations to return the best solution <br/>
 > - Language : C++ <br/>
 > - **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
+
+## **5. Integrated Platform for Internal and External Activity Announcements with Recommendation System -**
+Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
+> **Implemented features** <br/>
+> - Designed the system architecture for an Android application and integrated AWS Lambda and S3 for backend services <br/>
+> - Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
+> - Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/SmBZreBJgTM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/vkGqPW5nRsc" frameborder="0" allowfullscreen></iframe>
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/IdBTc7b7eUY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 # 📞 Contact
 - Email : sweetyleah0@gmail.com
