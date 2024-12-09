@@ -136,8 +136,8 @@ Explores the synchronization of virtual and physical movements within the metave
 Created a game featuring a cat navigating obstacles <br/>
 2)Configured Network Communication <br/>
 Set up network integration between TurtleBot3 Burger and a Node.js server <br/>
-> - OA : Node.js, Ros2    
-> - Language : C#
+> - OA : Node.js, Ros2 <br/>    
+> - Language : C# <br/>
 > **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
 ## **3. CNN-LSTM Sentimental Analysis Project** <br/>
