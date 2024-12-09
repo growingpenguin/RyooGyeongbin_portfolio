@@ -166,9 +166,8 @@ Developed an Android application that provides internal and external activity an
 > - Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
 > - Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
 ### Videos:
-1. [Video 1: Watch on YouTube](https://www.youtube.com/watch?v=SmBZreBJgTM)
-2. [Video 2: Watch on YouTube](https://www.youtube.com/watch?v=vkGqPW5nRsc)
-3. [Video 3: Watch on YouTube](https://www.youtube.com/watch?v=IdBTc7b7eUY)
+2. [Video 1: Watch on YouTube](https://www.youtube.com/watch?v=vkGqPW5nRsc)
+3. [Video 2: Watch on YouTube](https://www.youtube.com/watch?v=IdBTc7b7eUY)
 
 
 # 📞 Contact
