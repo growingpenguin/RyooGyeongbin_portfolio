@@ -164,6 +164,10 @@ Developed an Android application that provides internal and external activity an
 1)Designed the system architecture for an Android application and integrated AWS Lambda and S3 for backend services <br/>
 2)Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
 3)Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
+> - Language : Java <br/>
+> - **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
+
+
 ### Videos:
 2. [Video 1: Watch on YouTube](https://www.youtube.com/watch?v=vkGqPW5nRsc)
 3. [Video 2: Watch on YouTube](https://www.youtube.com/watch?v=IdBTc7b7eUY)
