@@ -167,6 +167,8 @@ Developed an Android application that provides internal and external activity an
 > - Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
 
 
+
+
 <div style="display: flex; gap: 10px; justify-content: center;">
   <iframe width="200" height="200" src="https://www.youtube.com/embed/SmBZreBJgTM" frameborder="0" allowfullscreen></iframe>
   <iframe width="200" height="200" src="https://www.youtube.com/embed/vkGqPW5nRsc" frameborder="0" allowfullscreen></iframe>
