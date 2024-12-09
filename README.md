@@ -123,10 +123,10 @@ Conducted research analyzing the relationship between the 6-DOF motions of LNG c
 </div>
 
 Sentiment analysis of Korean movie reviews in the Naver Sentiment Movie Corpus using two state-of-the-art language models: [meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and [KT-AI/midm-bitext-S-7B-inst-v1](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1) <br/>
->> **Implemented features** <br/>
+> **Implemented features** <br/>
 Fine-Tuned LLaMA-2-7B Adapter for NSMC: Optimized the meta-llama/Llama-2-7b-chat-hf model for Korean movie reviews in NSMC using LoRA for accurate sentiment predictions <br/>
 Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for nuanced, culturally aware sentiment classification in NSMC <br/>
->> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
+> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
 ## **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
 <img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="500"/> <br/>
