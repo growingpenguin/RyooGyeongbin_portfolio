@@ -116,7 +116,7 @@ Conducted research utilizing data collected from a virtual environment to train 
 Conducted research analyzing the relationship between the 6-DOF motions of LNG carriers and sloshing impact loads by utilizing experimental data from over 5,000 marine conditions. Using machine learning techniques such as LightGBM and GAM, the study demonstrated that acceleration is the most significant variable affecting sloshing loads <br/>
 
 # Mini Projects🐾
-> **1. NSMC Sentiment Analysis with Llama-2 & KT-AI** <br/>
+## **1. NSMC Sentiment Analysis with Llama-2 & KT-AI** <br/>
 <div style="display: flex; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/d09d2739-f731-44a2-a9ba-5aa10fa0259d" alt="Llama" width="300"/>
     <img src="https://github.com/user-attachments/assets/4e22ebbe-31e6-4f76-bd71-d6c00a32a24e" alt="Midm" width="300"/>
@@ -128,7 +128,7 @@ Fine-Tuned LLaMA-2-7B Adapter for NSMC: Optimized the meta-llama/Llama-2-7b-chat
 Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for nuanced, culturally aware sentiment classification in NSMC <br/>
 >> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
-> **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
+## **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
 <img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="500"/> <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
 >> **Implemented features** <br/>
@@ -140,7 +140,7 @@ Set up network integration between TurtleBot3 Burger and a Node.js server <br/>
 >> - Language : C#
 >> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
-> **3. CNN-LSTM Sentimental Analysis Project** <br/>
+## **3. CNN-LSTM Sentimental Analysis Project** <br/>
 <img src="https://github.com/user-attachments/assets/20a7504a-9ecd-4492-8224-d3f910b85414" alt="CNN-LSTM" width="800"/> <br/>
 >> **Implemented features** <br/>
 Analyze and improve their performance using data from the RAVDESS, SAVEE, and TESS datasets <br/>
@@ -150,7 +150,7 @@ Compares three machine learning models—Pure CNN, CNN-LSTM, and Pure LSTM—eac
 >> **Code:** https://github.com/growingpenguin/ELECourse/tree/main/SummerProject <br/>
 >> **Instagram:** https://www.instagram.com/p/C-eybmCpKYW/?igsh=YnAzb2kwbnN4dmVo <br/>
 
-> **4. Genetic Algorithm Project** <br/>
+## **4. Genetic Algorithm Project** <br/>
 Participated in a project to find the optimal equation that represents a phenomenon (Column G) using the combinations of six properties (A, B, C, D, E, F) from a given dataset.csv by applying Genetic Programming and Dynamic Programming <br/>
 >> **Implemented features** <br/>
 1)Generated initial solutions with up to six operators, calculated cost using MSE principles, and assessed fitness for the parent population <br/>
