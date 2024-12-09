@@ -158,7 +158,7 @@ Participated in a project to find the optimal equation that represents a phenome
 > - Language : C++ <br/>
 > - **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
 
-## **5. Integrated Platform for Internal and External Activity Announcements with Recommendation System -**
+## **5. Integrated Platform for Internal and External Activity Announcements with Recommendation System**
 Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
 > **Implemented features** <br/>
 1)Designed the system architecture for an Android application and integrated AWS Lambda and S3 for backend services <br/>
