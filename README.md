@@ -4,15 +4,16 @@
 
 <br />
 
-# 👋 Intro
+# 👋 Introduction
 
 > Hello! ***"I am someone who thrives on learning and embracing new challenges!"***  
 > I have worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the [Mobility Service Research Lab](https://kim415.github.io/) <br/>
 > Presenting 🗣 my research as an author at domestic and international conferences has sharpened my expertise in deep learning development <br/> 
-> As a student researcher💡, I gained hands-on experience in AI algorithm development <br/>
+> As a student researcher💡, I gained hands-on experience in: <br/>
 1. Creating executable (.exe) AI services <br/>
 2. Contributed to business planning through various corporate projects <br/>
-> For confidentiality🔒 reasons, only a summary of my roles in corporate projects is provided, while highlights from my club activities are documented in code and video format <br/>
+> 🔒 For confidentiality reasons, only a summary of my roles in corporate projects is provided, while highlights from my club activities are documented in code and video format <br/>
+> 📖 Due to confidentiality, corporate project details are summarized, while highlights from my club activities are showcased in code and video formats.
 > You can find more detailed information <a href="https://growingpenguin.github.io/"> </a> about me here! <br/>
 
 <br/>
