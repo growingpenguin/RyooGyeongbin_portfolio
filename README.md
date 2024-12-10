@@ -24,7 +24,7 @@ As a student researcher, I contributed to multiple industry-academia projects <b
 These experiences strengthened my skills in AI development, software implementation, and business planning <br/>
 I ***led the implementation of a deep learning sloshing prediction program*** under UROP, showcasing my ability to drive innovative solutions <br/>
 
-## 1. Designing connection scenarios for robot-friendly buildings and enhancing business models 🔨
+## 1. Designing connection scenarios for robot-friendly buildings and enhancing BM 🔨
 > Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated with Hyundai Motors)  
 > Established standards and certification procedures for robot-friendly buildings, optimizing services through simulations.  
 > - **Development Period:** 2024.06.05 – 2025.01.31  
