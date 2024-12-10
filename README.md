@@ -19,13 +19,10 @@ I have worked as an undergraduate research assistant at the Marine Hydrodynamics
 
 📖 Learn more about my work on my [blog](https://growingpenguin.github.io/).
 
-<br/>
-
 # 📝 Industry-Academia Collaboration Projects
 As a student researcher, I contributed to multiple industry-academia projects <br/>
 These experiences strengthened my skills in AI development, software implementation, and business planning <br/>
 I ***led the implementation of a deep learning sloshing prediction program*** under UROP, showcasing my ability to drive innovative solutions <br/>
-
 
 ## 1. Developing connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model 🔨
 > Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated by Hyundai Motors) <br/>
