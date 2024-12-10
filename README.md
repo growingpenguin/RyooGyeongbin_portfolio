@@ -6,11 +6,12 @@
 
 # 👋 Intro
 
-> Hello! ***"I am someone who always strives to learn and take on new challenges!"***  
-> I worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the Mobility Research Lab <br/>  
-> Through presenting as an author at both domestic and international conferences, I was able to enhance my deep learning development skills. <br/> 
-> By contributing to multiple corporate projects as a student researcher, I developed expertise in AI algorithm development, creating executable (.exe) AI services, and business planning. <br/>
-> Due to security concerns, only partial details and my specific roles in corporate projects are summarized, and activities from my club experience are documented ***in video form*** <br/>  
+> Hello! ***"I am someone who thrives on learning and embracing new challenges!"***  
+> I have worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the Mobility Research Lab <br/>  
+> Presenting my work as an author at both domestic and international conferences has honed my skills in deep learning development. <br/> 
+> As a student researcher, I gained hands-on experience in AI algorithm development, creating executable (.exe) AI services, and contributing to business planning through various corporate projects. <br/>
+> Due to security concerns, only partial details and my specific roles in corporate projects are summarized, and activities from my club experience are documented ***in video form*** <br/>
+> For confidentiality reasons, only a summary of my roles in corporate projects is provided, while highlights from my club activities are documented in code and video format <br/>
 > You can find more detailed information <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> </a> about me here! <br/>
 
 <br/>
