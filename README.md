@@ -22,7 +22,7 @@ In terms of my role, as a student researcher, I particularly took ***a leading r
 
 ## 1. Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model🔨
 
-> Funded by Hyundai NGV (Affiliated by Hyundai Motors) <br/>
+> Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated by Hyundai Motors) <br/>
 > Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
 > - Development Period: 2024.06.05 – 2025.01.31 <br/>
 > - Key Role : Intellectual Property Strategist, Patent Analyst <br/>
