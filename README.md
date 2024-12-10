@@ -28,13 +28,13 @@ I ***led the implementation of a deep learning sloshing prediction program*** un
 Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated with Hyundai Motors)  
 Established standards and certification procedures for robot-friendly buildings, optimizing services through simulations.  
 
-**Development Period:** 2024.06.05 – 2025.01.31  
+**Project Timeline:** 2024.06.05 – 2025.01.31  
 **Key Role:** Intellectual Property Strategist, Patent Analyst  
 
 **Key Contributions:**  
-**Simulation Analysis:** Conducted metrics-based analysis to optimize robot-friendly environments and improve operational efficiency.  
-**Standard Development:** Developed protocols for autonomous information exchange, set criteria for tailored support, and proposed solutions for sustainable growth and rights protection.  
-**Patent Application:** Analyzed competitor patents, reviewed key components, and contributed to system optimization and patent filing processes.
+**1) Simulation Analysis:** Conducted metrics-based analysis to optimize robot-friendly environments and improve operational efficiency.  
+**2) Standard Development:** Developed protocols for autonomous information exchange, set criteria for tailored support, and proposed solutions for sustainable growth and rights protection.  
+**3) Patent Application:** Analyzed competitor patents, reviewed key components, and contributed to system optimization and patent filing processes.
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
