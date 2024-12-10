@@ -7,7 +7,7 @@
 # 👋 Intro
 
 > Hello! ***"I am someone who thrives on learning and embracing new challenges!"***  
-> I have worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the [Mobility Research Lab](https://kim415.github.io/) <br/>  
+> I have worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the [Mobility Service Research Lab](https://kim415.github.io/) <br/>  
 > Presenting my work as an author at both domestic and international conferences has honed my skills in deep learning development. <br/> 
 > As a student researcher, I gained hands-on experience in AI algorithm development, creating executable (.exe) AI services, and contributing to business planning through various corporate projects. <br/>
 > Due to security concerns, only partial details and my specific roles in corporate projects are summarized, and activities from my club experience are documented in video form <br/>
