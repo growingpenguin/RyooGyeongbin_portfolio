@@ -21,9 +21,10 @@ I have worked as an undergraduate research assistant at the Marine Hydrodynamics
 
 <br/>
 
-# 📝Industry Collaborated Projects
-These are the industry-academia collaboration projects I contributed to as a student researcher! <br/>  
-I developed a comprehensive understanding of AI algorithm development required by companies, software functionality implementation, and overall new business planning. <br/>  
+# 📝 Industry-Academia Collaboration Projects
+As a student researcher, I had the opportunity to contribute to several industry-academia collaboration projects! <br/>
+Through these experiences, I gained a deep understanding of AI algorithm development tailored to industry needs, software functionality implementation, and new business planning strategies <br/> 
+
 In terms of my role, as a student researcher, I particularly took ***a leading role in the deep learning prediction program***, which I conducted as part of an individual UROP project. <br/>
 
 ## 1. Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model🔨
