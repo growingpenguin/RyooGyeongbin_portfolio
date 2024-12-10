@@ -13,7 +13,7 @@
 1. Developing AI algorithms & executable (.exe) AI service <br/>
 2. Contributing to business planning through corporate project <br/>
 > 🔒  Due to confidentiality, corporate project details are summarized, while highlights from my club activities are showcased in code, image, and video formats <br/>
-> Learn more about my work on my blog <a href="https://growingpenguin.github.io/"> </a> about me here! <br/>
+> Learn more about my work on my [blog](https://growingpenguin.github.io/) here! <br/>
 
 <br/>
 
