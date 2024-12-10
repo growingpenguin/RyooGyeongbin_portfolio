@@ -26,8 +26,7 @@ As a student researcher, I had the opportunity to contribute to several industry
 Through these experiences, I gained a deep understanding of AI algorithm development tailored to industry needs, software functionality implementation, and new business planning strategies <br/> 
 In particular, I took ***a leading role in the deep learning prediction program*** as part of an individual UROP project, showcasing my ability to independently drive innovative solutions. <br/>
 
-## 1. Detailing the connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model🔨
-
+## 1. Developing connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model 🔨
 > Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated by Hyundai Motors) <br/>
 > Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
 > - Development Period: 2024.06.05 – 2025.01.31 <br/>
