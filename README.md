@@ -10,10 +10,10 @@
 > I have worked as an undergraduate research assistant at the Marine Hydrodynamics AI Lab and the [Mobility Service Research Lab](https://kim415.github.io/) <br/>
 > 🎤 Presenting my research as an author at domestic and international conferences has sharpened my expertise in deep learning development <br/> 
 > 💡 As a student researcher, I gained hands-on experience in: <br/>
-1. Creating executable (.exe) AI services <br/>
-2. Contributed to business planning through various corporate projects <br/>
-> 🔒 Due to confidentiality, corporate project details are summarized, while highlights from my club activities are showcased in code and video formats.
-> You can find more detailed information <a href="https://growingpenguin.github.io/"> </a> about me here! <br/>
+1. Developing AI algorithms & executable (.exe) AI service <br/>
+2. Contributing to business planning through corporate project <br/>
+> 🔒  Due to confidentiality, corporate project details are summarized, while highlights from my club activities are showcased in code, image, and video formats <br/>
+> Learn more about my work on my blog <a href="https://growingpenguin.github.io/"> </a> about me here! <br/>
 
 <br/>
 
