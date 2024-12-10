@@ -22,9 +22,9 @@ I have worked as an undergraduate research assistant at the Marine Hydrodynamics
 <br/>
 
 # 📝 Industry-Academia Collaboration Projects
-As a student researcher, I had the opportunity to contribute to several industry-academia collaboration projects! <br/>
-Through these experiences, I gained a deep understanding of AI algorithm development tailored to industry needs, software functionality implementation, and new business planning strategies <br/> 
-In particular, I took ***a leading role in the deep learning prediction program*** as part of an individual UROP project, showcasing my ability to independently drive innovative solutions. <br/>
+As a student researcher, I contributed to several industry-academia collaboration projects!  <br/>
+These experiences helped me develop expertise in AI algorithm development, software functionality implementation, and new business planning <br/>
+I took ***a leading role in the deep learning prediction program*** as part of an individual UROP project, demonstrating my ability to independently drive innovative solutions <br/>
 
 ## 1. Developing connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model 🔨
 > Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated by Hyundai Motors) <br/>
