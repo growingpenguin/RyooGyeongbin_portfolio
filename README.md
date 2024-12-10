@@ -24,16 +24,15 @@ As a student researcher, I contributed to multiple industry-academia projects <b
 These experiences strengthened my skills in AI development, software implementation, and business planning <br/>
 I ***led the implementation of a deep learning sloshing prediction program*** under UROP, showcasing my ability to drive innovative solutions <br/>
 
-## 1. Developing connection scenarios between robot-friendly buildings and external service providers, and enhancing the business model 🔨
-> Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated by Hyundai Motors) <br/>
-> Established standards and certification procedures for robot-friendly buildings, contributing to the optimization and performance verification of specialized services for each building through simulations. 
-> - Development Period: 2024.06.05 – 2025.01.31 <br/>
-> - Key Role : Intellectual Property Strategist, Patent Analyst <br/>
-> - Contributed to analysis via simulations, standard development, and patent applications <br/>
-> - Analysis via Simulations: Used a specific technical framework to conduct analysis on various metrics and implement tailored services, aiming to optimize services in robot-friendly environments and improve operational efficiency. <br/>
-> - Standard Development: Developed autonomous information exchange methods and communication protocols to streamline procedures for specific environments and set criteria for tailored support. Also contributed to establishing solutions for smooth interaction with various components and proposed long-term directions for sustainable growth and rights protection. <br/> 
-> - Patent Application: Analyzed key components of competitor patents, reviewed classifications, invention titles, representative drawings, abstracts, and main claims. Additionally, studied the interaction of various operational and control technologies in robot-friendly building environments and researched system optimization methods, contributing to the company's patent application process. <br/>
-<br />
+## 1. Designing connection scenarios for robot-friendly buildings and enhancing business models 🔨
+> Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated with Hyundai Motors)  
+> Established standards and certification procedures for robot-friendly buildings, optimizing services through simulations.  
+> - **Development Period:** 2024.06.05 – 2025.01.31  
+> - **Key Role:** Intellectual Property Strategist, Patent Analyst  
+> - **Key Contributions:**  
+>   - **Simulation Analysis:** Conducted metrics-based analysis to optimize robot-friendly environments and improve operational efficiency.  
+>   - **Standard Development:** Developed protocols for autonomous information exchange, set criteria for tailored support, and proposed solutions for sustainable growth and rights protection.  
+>   - **Patent Application:** Analyzed competitor patents, reviewed key components, and contributed to system optimization and patent filing processes.
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
