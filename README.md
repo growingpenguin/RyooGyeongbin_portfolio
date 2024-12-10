@@ -24,17 +24,21 @@ As a student researcher, I contributed to multiple industry-academia projects <b
 These experiences strengthened my skills in AI development, software implementation, and business planning <br/>
 I ***led the implementation of a deep learning sloshing prediction program*** under UROP, showcasing my ability to drive innovative solutions <br/>
 
-## 1. Designing connection scenarios for robot-friendly buildings and enhancing BM 🔨
+## 1. Designing Connection Scenarios for Robot-Friendly Buildings and Enhancing Business Models 🔨  
 Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated with Hyundai Motors)  
-Established standards and certification procedures for robot-friendly buildings, optimizing services through simulations.  
+Developed standards and certification procedures for robot-friendly buildings, optimizing services through simulations.  
 
 **Project Timeline:** 2024.06.05 – 2025.01.31  
 **Key Role:** Intellectual Property Strategist, Patent Analyst  
 
 **Key Contributions:**  
-**1) Simulation Analysis:** Conducted metrics-based analysis to optimize robot-friendly environments and improve operational efficiency.  
-**2) Standard Development:** Developed protocols for autonomous information exchange, set criteria for tailored support, and proposed solutions for sustainable growth and rights protection.  
-**3) Patent Application:** Analyzed competitor patents, reviewed key components, and contributed to system optimization and patent filing processes.
+- **Simulation Analysis:** Conducted metrics-based analysis to optimize robot-friendly environments and improve operational efficiency.  
+- **Standard Development:** Designed protocols for autonomous information exchange, set tailored support criteria, and proposed sustainable growth solutions.  
+- **Patent Application:** Reviewed competitor patents, analyzed key components, and contributed to system optimization and patent filings.  
+
+**Tools Used:**  
+- **OA:** Microsoft Excel  
+- **Engineering Tools:** Confidential simulation framework
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
