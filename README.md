@@ -40,7 +40,7 @@ Developed standards and certification procedures for robot-friendly buildings, o
 - **OA:** Microsoft Excel <br/>
 - **Engineering Tools:** Confidential simulation framework <br/>
 
-**🎞 Youtube** <br/>
+**🎞 On-Site Visit** <br/>
 <table>
   <tbody>
     <tr>
