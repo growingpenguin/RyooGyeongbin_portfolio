@@ -46,7 +46,7 @@ Developed standards and certification procedures for robot-friendly buildings, o
     <tr>
       <td>
         <a href="https://youtu.be/xKBFNskzSS4" title="Hyundai Wia Automated Parking Robot">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt="Hyundai Wia Automated Parking Robot">
         </a>
       </td>
       <td>
