@@ -41,6 +41,9 @@ Developed standards and certification procedures for robot-friendly buildings, o
 - **Engineering Tools:** Confidential simulation framework <br/>
 
 **🎞 On-Site Visit** <br/>
+Click photo to watch video <br/>
+**🎞 On-Site Visit** <br/>
+<p style="margin: 10px 0; font-size: 16px; color: #555;">Click the photo to watch the video</p>
 <table style="border-spacing: 15px; text-align: center; margin-left: 0;">
   <tbody>
     <tr>
@@ -52,16 +55,20 @@ Developed standards and certification procedures for robot-friendly buildings, o
                alt="Photo of Hyundai Wia Automated Parking Robot" 
                style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
         </a>
+        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Hyundai Wia Automated Parking Robot</p>
       </td>
-      <!-- Second Column: Placeholder for additional photo -->
+      <!-- Second Column: Additional photo -->
       <td>
         <img src="https://github.com/user-attachments/assets/f9a120b1-3064-4e62-903b-c2f355569e5f" 
-     width="300" 
-     alt="Additional Photo" 
-     style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+             width="300" 
+             alt="Additional Photo" 
+             style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Additional Photo</p>
       </td>
+    </tr>
   </tbody>
 </table>
+
 
 
 
