@@ -41,25 +41,35 @@ Developed standards and certification procedures for robot-friendly buildings, o
 - **Engineering Tools:** Confidential simulation framework <br/>
 
 **🎞 On-Site Visit** <br/>
-<table>
+<table align="center" style="border-spacing: 15px; text-align: center; margin: 0 auto;">
   <tbody>
     <tr>
+      <!-- First Column: Photo linked to the video -->
       <td>
         <a href="https://youtu.be/xKBFNskzSS4" title="Hyundai Wia Automated Parking Robot">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt="Hyundai Wia Automated Parking Robot">
+          <img src="https://github.com/user-attachments/assets/9b173dba-92d4-4fd9-ab9a-0a710e31bcaa" 
+               width="400" 
+               alt="Photo of Hyundai Wia Automated Parking Robot" 
+               style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
         </a>
       </td>
+      <!-- Second Column: Placeholder for additional photo -->
       <td>
-        <img align="center" src="https://via.placeholder.com/300" width="300" alt="Additional Photo">
+        <img src="https://via.placeholder.com/300" 
+             width="300" 
+             alt="Additional Photo" 
+             style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
       </td>
     </tr>
+    <!-- Row for More Videos link -->
     <tr>
-      <td colspan="2" align="center">
-        <b><em><a href="https://youtu.be/xKBFNskzSS4">More videos...</a></em></b>
+      <td colspan="2" align="center" style="padding-top: 15px;">
+        <b><em><a href="https://youtu.be/xKBFNskzSS4" style="text-decoration: none; color: #007BFF;">More videos...</a></em></b>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
