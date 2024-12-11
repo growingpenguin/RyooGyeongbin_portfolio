@@ -55,7 +55,7 @@ Developed standards and certification procedures for robot-friendly buildings, o
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+        <b><em><a href="https://youtu.be/xKBFNskzSS4">More videos...</a></em></b>
       </td>
     </tr>
   </tbody>
