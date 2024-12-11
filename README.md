@@ -93,8 +93,8 @@ Funded by Ministry of Science and ICT <br/>
 
 ## 3. Position-specific sloshing load prediction program using deep learning💻
 
-> Funded by Hyundai Heavy Machinary
-> - Development Period : 2023.03.01-2023.11.30
+Funded by Hyundai Heavy Machinary <br/>
+**Project Timeline:** 2023.03.01-2023.11.30 <br/>
 > - Key Role : Project Manager(PM) & Full-Stack Developer <br/>
 Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
 >> - Language : C#, Python <br/>
