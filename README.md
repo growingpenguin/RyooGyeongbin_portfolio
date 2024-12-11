@@ -74,10 +74,11 @@ Click photo to watch video <br/>
 
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
+Funded by Ministry of Science and ICT <br/>
+**Project Timeline:** 2023.03.01-2024.02.29 <br/>
+**Key Role:** Data Mining Specialist, Machine Learning Programmer <br/>
 
-> Funded by Ministry of Science and ICT <br/>
-> - Development Period: 2023.03.01-2024.02.29 <br/>
-> - Key Role : Data Mining Specialist, Machine Learning Programmer <br/>
+**Key Contributions:**  <br/>
 Contributed to scaling time-series data measuring ship movements and testing and improving the performance of AI algorithms using RNN, LSTM, and GRU models <br/>
 >> - Language : C++/C#, Python
 >> - OA : AWS, Visual Studio .NET, Pytorch 
