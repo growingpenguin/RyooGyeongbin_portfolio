@@ -79,7 +79,7 @@ Funded by Ministry of Science and ICT <br/>
 **Key Role:** Data Mining Specialist, Machine Learning Programmer <br/>
 
 **Key Contributions:**  <br/>
-- Contributed to scaling time-series data measuring ship movements and testing and improving the performance of AI algorithms using RNN, LSTM, and GRU models <br/>
+- Scaled ship movement time-series data and enhanced AI performance using RNN, LSTM, and GRU models <br/>
 
 **Tools Used:**  
 -  **OA** : AWS, Visual Studio .NET, Pytorch  <br/>
