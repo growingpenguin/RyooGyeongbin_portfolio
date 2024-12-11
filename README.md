@@ -25,7 +25,7 @@ These experiences strengthened my skills in AI development, software implementat
 I ***led the implementation of a deep learning sloshing prediction program*** under UROP, showcasing my ability to drive innovative solutions <br/>
 
 ## 1. Designing Connection Scenarios for Robot-Friendly Buildings and Enhancing Business Models 🔨  
-Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated with Hyundai Motors)  
+Funded by [**Hyundai NGV**](https://www.hyundai-ngv.com/main/index.do) (Affiliated with Hyundai Motors)  <br/>
 Developed standards and certification procedures for robot-friendly buildings, optimizing services through simulations.  
 
 **Project Timeline:** 2024.06.05 – 2025.01.31  
@@ -37,8 +37,24 @@ Developed standards and certification procedures for robot-friendly buildings, o
 - **Patent Application:** Reviewed competitor patents, analyzed key components, and contributed to system optimization and patent filings.  
 
 **Tools Used:**  
-- **OA:** Microsoft Excel  
-- **Engineering Tools:** Confidential simulation framework
+- **OA:** Microsoft Excel <br/>
+- **Engineering Tools:** Confidential simulation framework <br/>
+
+**🎞 Youtube** <br/>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+
+
 
 ## 2. Development of Small-Scale Marine Mobility for Collecting and Recycling Coastal Floating Waste 🚢
 
