@@ -55,10 +55,10 @@ Developed standards and certification procedures for robot-friendly buildings, o
       </td>
       <!-- Second Column: Placeholder for additional photo -->
       <td>
-        <img src="https://via.placeholder.com/300" 
-             width="300" 
-             alt="Additional Photo" 
-             style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+        <img src="https://github.com/user-attachments/assets/f9a120b1-3064-4e62-903b-c2f355569e5f" 
+     width="300" 
+     alt="Additional Photo" 
+     style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
       </td>
   </tbody>
 </table>
