@@ -41,7 +41,7 @@ Developed standards and certification procedures for robot-friendly buildings, o
 - **Engineering Tools:** Confidential simulation framework <br/>
 
 **🎞 On-Site Visit** <br/>
-<table align="center" style="border-spacing: 15px; text-align: center; margin: 0 auto;">
+<table style="border-spacing: 15px; text-align: center; margin-left: 0;">
   <tbody>
     <tr>
       <!-- First Column: Photo linked to the video -->
