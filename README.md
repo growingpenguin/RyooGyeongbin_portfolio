@@ -60,13 +60,6 @@ Developed standards and certification procedures for robot-friendly buildings, o
              alt="Additional Photo" 
              style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
       </td>
-    </tr>
-    <!-- Row for More Videos link -->
-    <tr>
-      <td colspan="2" align="center" style="padding-top: 15px;">
-        <b><em><a href="https://youtu.be/xKBFNskzSS4" style="text-decoration: none; color: #007BFF;">More videos...</a></em></b>
-      </td>
-    </tr>
   </tbody>
 </table>
 
