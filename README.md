@@ -42,7 +42,6 @@ Developed standards and certification procedures for robot-friendly buildings, o
 
 **🎞 On-Site Visit** <br/>
 Click photo to watch video <br/>
-**🎞 On-Site Visit** <br/>
 <p style="margin: 10px 0; font-size: 16px; color: #555;">Click the photo to watch the video</p>
 <table style="border-spacing: 15px; text-align: center; margin-left: 0;">
   <tbody>
