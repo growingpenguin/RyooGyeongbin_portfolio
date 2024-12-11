@@ -61,7 +61,7 @@ Click photo to watch video <br/>
       <td>
         <img src="https://github.com/user-attachments/assets/f9a120b1-3064-4e62-903b-c2f355569e5f" 
              width="300" 
-             alt="Additional Photo" 
+             alt="Food Delivery Robot" 
              style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
         <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Additional Photo</p>
       </td>
