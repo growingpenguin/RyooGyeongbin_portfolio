@@ -36,7 +36,7 @@ Developed standards and certification procedures for robot-friendly buildings, o
 - **Standard Development:** Designed protocols for autonomous information exchange, set tailored support criteria, and proposed sustainable growth solutions.  
 - **Patent Application:** Reviewed competitor patents, analyzed key components, and contributed to system optimization and patent filings.  
 
-**Tools Used:**  
+**Tools Used:**  <br/>
 - **OA:** Microsoft Excel <br/>
 - **Engineering Tools:** Confidential simulation framework <br/>
 
@@ -81,8 +81,8 @@ Funded by Ministry of Science and ICT <br/>
 - Scaled ship movement time-series data and enhanced AI performance using RNN, LSTM, and GRU models <br/>
 
 **Tools Used:**  
--  **OA** : AWS, Visual Studio .NET, Pytorch  <br/>
-- **Language** : C++/C#, Python <br/>
+-  **OA**: AWS, Visual Studio .NET, Pytorch  <br/>
+- **Language**: C++/C#, Python <br/>
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
@@ -91,15 +91,20 @@ Funded by Ministry of Science and ICT <br/>
 <br/>
 
 ## 3. Position-specific sloshing load prediction program using deep learning💻
-
 Funded by Hyundai Heavy Machinary <br/>
 **Project Timeline:** 2023.03.01-2023.11.30 <br/>
-> - Key Role : Project Manager(PM) & Full-Stack Developer <br/>
-Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results.
->> - Language : C#, Python <br/>
->> - OA : AWS, Visual Studio .NET, Pytorch <br/>
->> - [Urop_Project_ppt](https://github.com/user-attachments/files/18021448/Urop_Project_Progress.pptx)
->> - [2023-1-UROP_Report](https://github.com/user-attachments/files/18021363/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
+**Key Role:**: Project Manager(PM) & Full-Stack Developer <br/>
+**Key Contributions:**  <br/>
+Responsible for building a login feature using AWS implementing functionality for administrators to upload AI models, and visualizing real-time AI model prediction results <br/>
+
+**Tools Used:**  <br/>
+ - OA : AWS, Visual Studio .NET, Pytorch <br/>
+ - Language : C#, Python <br/>
+
+**UROP Reports** <br/>
+ - [Urop_Project_ppt](https://github.com/user-attachments/files/18021448/Urop_Project_Progress.pptx)
+ - [2023-1-UROP_Report](https://github.com/user-attachments/files/18021363/2023-1.-UROP_Report_20211327_GyeongbinRyoo.pdf)
+
 <h3>Software Overview</h3>
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/growingpenguin/RsProject_UROP/assets/110277903/f8df56dd-9d0f-4dac-9033-3856318dd85b" alt="Softwarepic1" style="width: 400px; height: auto;">
