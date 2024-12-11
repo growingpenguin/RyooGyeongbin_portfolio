@@ -82,8 +82,8 @@ Funded by Ministry of Science and ICT <br/>
 - Contributed to scaling time-series data measuring ship movements and testing and improving the performance of AI algorithms using RNN, LSTM, and GRU models <br/>
 
 **Tools Used:**  
--  OA : AWS, Visual Studio .NET, Pytorch 
-- Language : C++/C#, Python
+-  **OA** : AWS, Visual Studio .NET, Pytorch  <br/>
+- **Language** : C++/C#, Python <br/>
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/dd2c29a9-e7a0-42c2-b2fb-0ab788b37426" alt="Marine1" style="width: 300px; height: auto;">
