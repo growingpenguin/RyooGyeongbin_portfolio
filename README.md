@@ -46,13 +46,20 @@ Developed standards and certification procedures for robot-friendly buildings, o
     <tr>
       <td>
         <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
         </a>
+      </td>
+      <td>
+        <img align="center" src="https://via.placeholder.com/300" width="300" alt="Additional Photo">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
       </td>
     </tr>
   </tbody>
 </table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
 
 
 
