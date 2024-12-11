@@ -63,7 +63,7 @@ Click photo to watch video <br/>
              width="300" 
              alt="Food Delivery Robot" 
              style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
-        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Food Delivery Robot</p>
+        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Hyundai Wia Food Delivery Robot</p>
       </td>
     </tr>
   </tbody>
