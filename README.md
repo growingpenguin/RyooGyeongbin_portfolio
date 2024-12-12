@@ -214,7 +214,7 @@ Developed an Android application that provides internal and external activity an
 2)Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
 3)Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
 > - Language : Java <br/>
-> - **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
+> - **Code:** https://github.com/growingpenguin/Graph <br/>
 
 
 ### Videos:
@@ -245,7 +245,6 @@ Developed an Android application that provides internal and external activity an
     </tr>
   </tbody>
 </table>
-> - **Code:** https://github.com/growingpenguin/Graph <br/>
 
 
 
