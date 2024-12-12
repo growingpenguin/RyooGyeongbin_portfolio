@@ -218,8 +218,33 @@ Developed an Android application that provides internal and external activity an
 
 
 ### Videos:
-2. [Video 1: Watch on YouTube](https://www.youtube.com/watch?v=vkGqPW5nRsc)
-3. [Video 2: Watch on YouTube](https://www.youtube.com/watch?v=IdBTc7b7eUY)
+<p style="margin: 10px 0; font-size: 16px; color: #555;">Click the photo to watch the video</p>
+<table style="border-spacing: 15px; text-align: center; margin-left: 0;">
+  <tbody>
+    <tr>
+      <!-- First Column: Photo linked to the video -->
+      <td>
+        <a href="https://www.youtube.com/watch?v=vkGqPW5nRsc" title="Hyundai Wia Automated Parking Robot">
+          <img src="https://github.com/user-attachments/assets/9b173dba-92d4-4fd9-ab9a-0a710e31bcaa" 
+               width="400" 
+               alt="Photo of Hyundai Wia Automated Parking Robot" 
+               style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+        </a>
+        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Hyundai Wia Automated Parking Robot</p>
+      </td>
+      <!-- Second Column: Photo linked to the video -->
+      <td>
+        <a href="https://www.youtube.com/watch?v=IdBTc7b7eUY" title="Hyundai Wia Automated Parking Robot">
+          <img src="https://github.com/user-attachments/assets/9b173dba-92d4-4fd9-ab9a-0a710e31bcaa" 
+               width="400" 
+               alt="Photo of Hyundai Wia Automated Parking Robot" 
+               style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
+        </a>
+        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Hyundai Wia Automated Parking Robot</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 # 📞 Contact
