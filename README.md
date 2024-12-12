@@ -217,36 +217,15 @@ Developed an Android application that provides internal and external activity an
 > - Language : Java <br/>
 > - **Code:** https://github.com/growingpenguin/Graph <br/>
 
-
-### Videos:
-<p style="margin: 10px 0; font-size: 16px; color: #555;">Click the photo to watch the video</p>
-<table style="border-spacing: 15px; text-align: center; margin-left: 0;">
-  <tbody>
-    <tr>
-      <!-- First Column: Photo linked to the video -->
-      <td>
-        <a href="https://www.youtube.com/watch?v=vkGqPW5nRsc" title="Hyundai Wia Automated Parking Robot">
-          <img src="https://github.com/user-attachments/assets/9b173dba-92d4-4fd9-ab9a-0a710e31bcaa" 
-               width="400" 
-               alt="Photo of Hyundai Wia Automated Parking Robot" 
-               style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
-        </a>
-        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Hyundai Wia Automated Parking Robot</p>
-      </td>
-      <!-- Second Column: Photo linked to the video -->
-      <td>
-        <a href="https://www.youtube.com/watch?v=IdBTc7b7eUY" title="Hyundai Wia Automated Parking Robot">
-          <img src="https://github.com/user-attachments/assets/9b173dba-92d4-4fd9-ab9a-0a710e31bcaa" 
-               width="400" 
-               alt="Photo of Hyundai Wia Automated Parking Robot" 
-               style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;">
-        </a>
-        <p style="font-size: 14px; font-weight: bold; margin-top: 8px;">Hyundai Wia Automated Parking Robot</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+## **6. English Newspaper Media**
+<img src="https://github.com/user-attachments/assets/89d1c637-e972-4efd-b1a5-6bd6a6aa4a71" alt="RecommendationSystem" width="400"/> <br/>
+Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
+> **Implemented features** <br/>
+1)Improved the design of existing modules using HTML and CSS to enhance visual appeal <br/>
+2)Modified and updated components with JavaScript to implement popup functionality, increasing accessibility to featured articles <br/>
+> - OA : HTML, CSS <br/>
+> - Language : Javascript <br/>
+> - **Site** https://www.sungshin.ac.kr/mirror/index..do <br/>
 
 
 # 📞 Contact
