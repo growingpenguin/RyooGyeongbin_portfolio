@@ -219,6 +219,7 @@ Developed an Android application that provides internal and external activity an
 
 ## **6. English Newspaper Media**
 <img src="https://github.com/user-attachments/assets/89d1c637-e972-4efd-b1a5-6bd6a6aa4a71" alt="RecommendationSystem" width="400"/> <br/>
+<img src="https://github.com/user-attachments/assets/89d1c637-e972-4efd-b1a5-6bd6a6aa4a71" alt="RecommendationSystem" width="400"/> <br/>
 Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
 > **Implemented features** <br/>
 1)Improved the design of existing modules using HTML and CSS to enhance visual appeal <br/>
