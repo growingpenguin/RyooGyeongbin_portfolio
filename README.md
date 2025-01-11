@@ -150,16 +150,16 @@ Significant impacts occur due to sloshing during the transportation of LNG (liqu
 >> - Language : Python, C/C++
 
 # Papers
-> 1. "A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data," accepted for presentation at ICTC 2024, 2024.10.17 (First co-author) , In Preparation for Publication <br/>
+ 1. "A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data," accepted for presentation at ICTC 2024, 2024.10.17 (First co-author) , In Preparation for Publication <br/>
 [Download PDF](https://github.com/user-attachments/files/18022337/ICTC_paper.pdf) <br/>
 Led research on fine-tuning and analyzing the performance of object detection AI models using virtual data collected from NVIDIA Omniverse, demonstrating that virtual data is effective in improving model performance in real-world environments <br/>
-> 2. "Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case," accepted at the KOSIME Domestic Conference, 2024.07.05 (Co-author) <br/>
+ 2. "Simulation-based Service Scenarios Analysis for Commercial Deployment: Robot-Friendly Building Case," accepted at the KOSIME Domestic Conference, 2024.07.05 (Co-author) <br/>
 [Download PDF](https://github.com/growingpenguin/CV_Korean/blob/main/papers/KOSIME_%EA%B8%B0%EC%88%A0%EA%B2%BD%EC%98%81%EA%B2%BD%EC%A0%9C%ED%95%99%ED%9A%8C-%EC%B4%88%EB%A1%9D%EC%A7%91.pdf) <br/>
 Conducted research analyzing simulation-based scenarios for optimizing robot services based on the concept of "robot-friendly buildings," evaluating service delay times according to the number of robots through 3D simulations, and overcoming the limitations of existing methods <br/>
-> 3. "Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment", presented at the Symposium of the Korean Institute of Communications and Information Sciences, 2024.06.19 (First author)"  <br/>
+ 3. "Performance Analysis of Semantic Segmentation in Fine-tuned Models Based on Virtual Environment", presented at the Symposium of the Korean Institute of Communications and Information Sciences, 2024.06.19 (First author)"  <br/>
 [Download PDF](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11906510) <br/>
 Conducted research utilizing data collected from a virtual environment to train an semantic segmentation model, followed by adding real-world data for performance comparison. The results demonstrated a significant improvement in the model's detection capabilities, confirming the usefulness of virtual data in real-world applications <br/>
-> 4. "Analyzing Experimental Data of 6-DOF Motions and Sloshing Impacts in LNG Carriers," published at the ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024), 2024.06.09 (Co-author)"  <br/>
+ 4. "Analyzing Experimental Data of 6-DOF Motions and Sloshing Impacts in LNG Carriers," published at the ASME 43rd International Conference on Ocean, Offshore & Arctic Engineering (OMAE2024), 2024.06.09 (Co-author)"  <br/>
 [Download PDF](https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2024/87820/V05AT06A064/1202497) <br/>
 Conducted research analyzing the relationship between the 6-DOF motions of LNG carriers and sloshing impact loads by utilizing experimental data from over 5,000 marine conditions. Using machine learning techniques such as LightGBM and GAM, the study demonstrated that acceleration is the most significant variable affecting sloshing loads <br/>
 
