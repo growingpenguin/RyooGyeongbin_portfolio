@@ -135,14 +135,14 @@ Responsible for building a login feature using AWS implementing functionality fo
 Research conducted as an Undergraduate Research Assistant in the Marine Hydrodynamics AI Lab and the Mobility Research Lab  
 
 ## 1. Metaverse Research Utilizing the NVIDIA Isaac Sim Platform 
-> Metaverse Research 
+Metaverse Research 
 Conducted research on extracting virtual environment data from the Nvidia Omniverse Isaac Sim platform and validating the significance of the data
-> - Research Period : 2023.03-2023.12
-> - Key Role : Machine Learning Researcher, ROS2 Engineer <br/>
+- Research Period : 2023.03-2023.12
+- Key Role : Machine Learning Researcher, ROS2 Engineer <br/>
 
->> - OA : Ros2, Linux, Pytorch   
->> - Language : Python
-> - Skill : 
+- OA : Ros2, Linux, Pytorch   
+- Language : Python
+- Skill : 
 <div style="display: flex; gap: 20px; align-items: center;">
     <img src="https://github.com/user-attachments/assets/6a592498-751a-4b0b-bf22-098f3a47142c" alt="Meta1" style="width: 300px; height: auto;">
     <img src="https://github.com/user-attachments/assets/9251b9b9-d7a8-4923-9b07-cdb475f4f464" alt="Meta2" style="width: 300px; height: auto;">
@@ -152,13 +152,13 @@ Conducted research on extracting virtual environment data from the Nvidia Omnive
 
 ## 2. Marine Sloshing Data Mining & Machine Learning
 
-> Sloshing AI Prediction  <br/>
+Sloshing AI Prediction  <br/>
 Significant impacts occur due to sloshing during the transportation of LNG (liquefied natural gas), influenced by various factors such as the amount of liquid filled, the direction of the ship's movement, and the period and height of waves. To predict these sloshing impacts, we conducted research utilizing machine learning techniques. <br/>
-> - Research Period : 2023.12-2025.01
-> - Key Role : Data Mining Specialist, Machine Learning Researcher
+- Research Period : 2023.12-2025.01
+- Key Role : Data Mining Specialist, Machine Learning Researcher
 1.Performed scaling of sloshing data based on its characteristics. 2. Conducted linear and nonlinear correlation analysis of the overall sloshing impact on the tank using machine learning <br/> 
->> - OA : Pytorch, Pandas, Numpy    
->> - Language : Python, C/C++
+- OA : Pytorch, Pandas, Numpy    
+- Language : Python, C/C++
 
 # Papers
  1. "A Fine-Tuning Approach for Object Detection Models using Virtually Generated Data," accepted for presentation at ICTC 2024, 2024.10.17 (First co-author) , In Preparation for Publication <br/>
