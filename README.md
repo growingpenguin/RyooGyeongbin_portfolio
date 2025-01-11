@@ -21,13 +21,13 @@ I have worked as an undergraduate research assistant at the Marine Hydrodynamics
 
 # 👋 Technologies and Tools
 Using a combination of cutting-edge technologies and reliable open-source software <br/>
--Programming Languages <br/>
+-**Programming Languages** <br/>
 C/C++, Python <br/>
--Libraries and Frameworks <br/>
+-**Libraries and Frameworks** <br/>
 pandas, NumPy, TensorFlow, PyTorch, OpenCV <br/>
--Cloud Services <br/>
+-**Cloud Services** <br/>
 AWS <br/>
--Web Development <br/>
+-**Web Development** <br/>
 HTML, CSS, JavaScript <br/>
 
 # 📝 Industry-Academia Collaboration Projects
