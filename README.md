@@ -182,22 +182,22 @@ Conducted research analyzing the relationship between the 6-DOF motions of LNG c
 </div>
 
 Sentiment analysis of Korean movie reviews in the Naver Sentiment Movie Corpus using two state-of-the-art language models: [meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) and [KT-AI/midm-bitext-S-7B-inst-v1](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1) <br/>
-> **Implemented features** <br/>
+**Implemented features** <br/>
 Fine-Tuned LLaMA-2-7B Adapter for NSMC: Optimized the meta-llama/Llama-2-7b-chat-hf model for Korean movie reviews in NSMC using LoRA for accurate sentiment predictions <br/>
 Fine-Tuned midm-7B Adapter for NSMC: Adapted KT-AI/midm-bitext-S-7B-inst-v1 for nuanced, culturally aware sentiment classification in NSMC <br/>
-> **Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
+**Code:** https://github.com/growingpenguin/NSMC-Sentiment-Fine-Tuning <br/>
 
 ## **2. Metaverse TurtleBot Burger Synchronization Project** <br/>
 <img src="https://github.com/growingpenguin/TurtleVerseSync/assets/110277903/12aed21d-6d5f-4450-b839-df8b4757b6ac" alt="turtle1" width="500"/> <br/>
 Explores the synchronization of virtual and physical movements within the metaverse by linking Unity Game Engine, Node.js, and TurtleBot3, demonstrating real-time interaction between user inputs in a virtual environment and a physical robot <br/>
-> **Implemented features** <br/>
+**Implemented features** <br/>
 1)Developed a 2D Game Environment in Unity <br/>
 Created a game featuring a cat navigating obstacles <br/>
 2)Configured Network Communication <br/>
 Set up network integration between TurtleBot3 Burger and a Node.js server <br/>
 > - OA : Node.js, Ros2 <br/>    
 > - Language : C# <br/>
-> **Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
+**Code:** https://github.com/growingpenguin/TurtleVerseSync <br/>
 
 ## **3. CNN-LSTM Sentimental Analysis Project** <br/>
 <img src="https://github.com/user-attachments/assets/20a7504a-9ecd-4492-8224-d3f910b85414" alt="CNN-LSTM" width="800"/> <br/>
@@ -211,31 +211,31 @@ Compares three machine learning models—Pure CNN, CNN-LSTM, and Pure LSTM—eac
 
 ## **4. Genetic Algorithm Project** <br/>
 Participated in a project to find the optimal equation that represents a phenomenon (Column G) using the combinations of six properties (A, B, C, D, E, F) from a given dataset.csv by applying Genetic Programming and Dynamic Programming <br/>
-> **Implemented features** <br/>
+**Implemented features** <br/>
 1)Generated initial solutions with up to six operators, calculated cost using MSE principles, and assessed fitness for the parent population <br/>
 2)Selected the best-fit parents from the population, performed crossover and mutation with probabilistic gene selection, and discarded invalid offspring <br/>
 3)Replaced the bottom 10% of the population with random solutions and iteratively evolved generations to return the best solution <br/>
-> - Language : C++ <br/>
-> - **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
+- Language : C++ <br/>
+- **Code:** https://github.com/growingpenguin/GeneticAlgorithmExpressionTrees.git <br/>
 
 ## **5. Integrated Platform for Internal and External Activity Announcements with Recommendation System**
 <img src="https://github.com/user-attachments/assets/89d1c637-e972-4efd-b1a5-6bd6a6aa4a71" alt="RecommendationSystem" width="400"/> <br/>
 Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
-> **Implemented features** <br/>
+**Implemented features** <br/>
 1)Designed the system architecture for an Android application and integrated AWS Lambda and S3 for backend services <br/>
 2)Implemented a login service using SQLite and developed recommendation algorithms using content-based filtering and collaborative filtering (utilizing TF-IDF and cosine similarity) <br/>
 3)Deployed Lambda functions using the Serverless Framework, integrated API Gateway, and optimized the system for improved performance <br/>
-> - Language : Java <br/>
-> - **Code:** https://github.com/growingpenguin/Graph <br/>
+- Language : Java <br/>
+- **Code:** https://github.com/growingpenguin/Graph <br/>
 
 ## **6. English Newspaper Media**
 Developed an Android application that provides internal and external activity announcements posted on the school website through an AI recommendation system <br/>
-> **Implemented features** <br/>
+**Implemented features** <br/>
 1)Improved the design of existing modules using HTML and CSS to enhance visual appeal <br/>
 2)Modified and updated components with JavaScript to implement popup functionality, increasing accessibility to featured articles <br/>
-> - OA : HTML, CSS <br/>
-> - Language : Javascript <br/>
-> - **Site** https://www.sungshin.ac.kr/mirror/index..do <br/>
+- OA : HTML, CSS <br/>
+- Language : Javascript <br/>
+- **Site** https://www.sungshin.ac.kr/mirror/index..do <br/>
 <img src="https://github.com/user-attachments/assets/0f12924b-a034-4b46-afee-fa0b952cdd87" alt="Mirror Website" width="700"/> <br/>
 
 
