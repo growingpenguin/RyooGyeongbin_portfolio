@@ -24,7 +24,7 @@ Using a combination of cutting-edge technologies and reliable open-source softwa
 -Programming Languages <br/>
 C/C++, Python <br/>
 -Libraries and Frameworks <br/>
-pandas, NumPy, TensorFlow, PyTorch <br/>
+pandas, NumPy, TensorFlow, PyTorch, OpenCV <br/>
 -Cloud Services <br/>
 AWS <br/>
 -Web Development <br/>
