@@ -19,6 +19,17 @@ I have worked as an undergraduate research assistant at the Marine Hydrodynamics
 
 📖 Learn more about my work on my [blog](https://growingpenguin.github.io/).
 
+# 👋 Technologies and Tools
+Using a combination of cutting-edge technologies and reliable open-source software <br/>
+-Programming Languages <br/>
+C/C++, Python <br/>
+-Libraries and Frameworks <br/>
+pandas, NumPy, TensorFlow, PyTorch <br/>
+-Cloud Services <br/>
+AWS <br/>
+-Web Development <br/>
+HTML, CSS, JavaScript <br/>
+
 # 📝 Industry-Academia Collaboration Projects
 As a student researcher, I contributed to multiple industry-academia projects <br/>
 These experiences strengthened my skills in AI development, software implementation, and business planning <br/>
